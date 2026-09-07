@@ -1,0 +1,1201 @@
+Student_ID,Class,Gender,School,Subject,Study_Hours_Per_Day,Attendance_%,Assignment_Completion_%,Sleep_Hours,Previous_Score,Final_Score,Grade,Study_Method,Internet_Access
+STU1001,11,Female,Kendriya Vidyalaya,Mathematics,5.2,77.3,78.5,7.4,57.7,60.4,C,Study Group,Good
+STU1002,12,Male,Delhi Public School,Computer Science,5.1,72.1,96.2,8.2,75.4,65.7,C,Coaching,Poor
+STU1003,11,Male,DAV Public School,Social Studies,3.2,66.7,100.0,7.2,63.0,72.4,B,Self Study,Poor
+STU1004,9,Male,Modern School,Computer Science,1.0,73.2,86.5,6.9,64.1,51.2,D,Study Group,Average
+STU1005,11,Female,DAV Public School,Computer Science,1.8,60.2,68.4,8.8,61.4,60.7,C,Study Group,Good
+STU1006,12,Female,Kendriya Vidyalaya,Computer Science,3.1,100.0,80.5,7.1,63.5,63.7,C,Self Study,Average
+STU1007,10,Female,DAV Public School,Social Studies,2.6,70.7,97.0,8.4,69.5,68.5,C,Study Group,Good
+STU1008,11,Female,Kendriya Vidyalaya,Mathematics,1.1,71.5,73.5,5.7,87.5,55.6,D,Online Courses,Average
+STU1009,10,Female,St. Xavier's,Social Studies,3.3,89.4,75.1,5.0,76.5,69.1,C,Coaching,Good
+STU1010,11,Male,St. Xavier's,Computer Science,0.3,58.7,58.1,7.1,76.0,47.0,D,Online Courses,Average
+STU1011,11,Female,Ryan International,Mathematics,3.8,70.2,72.8,6.5,52.2,54.8,D,Study Group,Good
+STU1012,11,Female,Kendriya Vidyalaya,English,1.7,76.7,74.0,5.5,77.8,60.5,C,Study Group,Good
+STU1013,9,Male,St. Xavier's,Mathematics,4.0,75.9,69.5,6.8,92.8,68.2,C,Coaching,Good
+STU1014,12,Female,Ryan International,Mathematics,1.7,82.9,60.0,6.2,71.2,52.4,D,Online Courses,Good
+STU1015,10,Female,Kendriya Vidyalaya,Computer Science,1.5,72.4,75.0,6.3,51.7,46.1,D,Self Study,Average
+STU1016,12,Male,Ryan International,Mathematics,2.2,77.6,59.1,5.3,51.2,43.9,D,Coaching,Average
+STU1017,11,Female,DAV Public School,Computer Science,3.0,69.0,92.1,10.0,63.5,70.3,B,Study Group,Good
+STU1018,9,Female,St. Xavier's,Social Studies,5.4,67.0,85.1,8.2,58.9,64.4,C,Self Study,Good
+STU1019,12,Female,Modern School,Science,5.0,71.1,77.7,9.2,72.5,74.3,B,Self Study,Good
+STU1020,9,Female,Modern School,Computer Science,0.9,89.3,74.1,8.3,71.6,52.3,D,Coaching,Good
+STU1021,11,Female,Modern School,Mathematics,3.4,64.0,80.3,9.0,67.0,57.6,D,Online Courses,Average
+STU1022,11,Male,Modern School,Science,3.9,72.7,76.7,7.4,62.0,50.4,D,Self Study,Average
+STU1023,10,Male,DAV Public School,Mathematics,0.9,93.6,76.7,7.5,61.6,49.6,D,Study Group,Good
+STU1024,12,Female,Ryan International,Mathematics,2.5,85.9,95.9,8.1,53.6,64.2,C,Online Courses,Good
+STU1025,9,Male,Ryan International,Mathematics,2.8,73.0,74.0,6.6,65.5,55.5,D,Self Study,Average
+STU1026,9,Male,St. Xavier's,Mathematics,3.2,82.8,36.8,7.8,72.9,60.1,C,Study Group,Good
+STU1027,10,Female,Delhi Public School,Social Studies,2.6,63.0,97.1,7.0,77.6,51.8,D,Online Courses,Good
+STU1028,10,Male,Ryan International,Computer Science,3.8,78.8,69.5,7.0,55.7,59.0,D,Self Study,Average
+STU1029,11,Female,Ryan International,Mathematics,0.3,85.8,99.9,7.1,61.3,57.7,D,Coaching,Good
+STU1030,12,Female,Kendriya Vidyalaya,English,3.5,74.8,87.1,8.0,60.6,55.6,D,Study Group,Average
+STU1031,9,Male,DAV Public School,Science,2.3,83.7,86.7,5.7,45.5,51.0,D,Self Study,Poor
+STU1032,12,Female,St. Xavier's,Mathematics,2.8,85.1,88.8,8.0,59.4,66.9,C,Study Group,Good
+STU1033,11,Female,St. Xavier's,Social Studies,3.1,74.6,75.5,6.2,61.1,55.3,D,Study Group,Average
+STU1034,10,Male,Kendriya Vidyalaya,Science,3.5,84.8,70.6,5.9,82.8,61.5,C,Online Courses,Poor
+STU1035,10,Female,Kendriya Vidyalaya,Computer Science,1.5,70.4,86.9,6.9,46.7,56.7,D,Study Group,Good
+STU1036,10,Male,St. Xavier's,Social Studies,2.1,79.9,77.9,8.4,49.8,57.0,D,Online Courses,Good
+STU1037,9,Female,Ryan International,Social Studies,2.2,68.6,59.7,8.7,57.9,41.4,D,Online Courses,Good
+STU1038,10,Female,St. Xavier's,Social Studies,3.1,100.0,44.3,7.5,72.4,60.4,C,Self Study,Good
+STU1039,12,Female,St. Xavier's,Social Studies,4.1,67.1,55.9,8.7,63.5,47.7,D,Self Study,Poor
+STU1040,10,Female,Ryan International,Computer Science,4.0,89.3,90.3,5.8,68.5,59.6,D,Coaching,Average
+STU1041,10,Female,DAV Public School,Computer Science,2.0,59.9,86.8,5.2,69.6,65.7,C,Self Study,Average
+STU1042,12,Male,DAV Public School,Computer Science,2.7,85.1,74.2,6.0,47.3,54.7,D,Online Courses,Good
+STU1043,9,Female,Kendriya Vidyalaya,Science,1.2,83.8,86.0,6.1,74.5,66.5,C,Study Group,Good
+STU1044,9,Male,Kendriya Vidyalaya,Mathematics,0.5,91.7,78.6,7.5,88.1,70.1,B,Online Courses,Poor
+STU1045,9,Female,Delhi Public School,Mathematics,3.8,59.5,75.8,7.1,55.9,42.2,D,Online Courses,Good
+STU1046,11,Female,Modern School,Mathematics,4.4,80.3,69.9,8.5,66.1,63.2,C,Self Study,Good
+STU1047,12,Male,DAV Public School,Mathematics,3.4,65.1,75.4,6.3,73.1,52.8,D,Online Courses,Average
+STU1048,12,Male,DAV Public School,Science,3.5,72.0,84.7,7.1,87.6,59.3,D,Online Courses,Good
+STU1049,9,Female,Modern School,Mathematics,2.3,81.7,100.0,7.3,60.8,66.7,C,Study Group,Good
+STU1050,9,Male,DAV Public School,Social Studies,2.0,92.1,73.3,6.4,69.2,55.9,D,Self Study,Good
+STU1051,10,Male,Ryan International,Computer Science,1.9,88.8,100.0,4.0,64.0,61.1,C,Self Study,Average
+STU1052,12,Female,St. Xavier's,English,3.0,84.7,52.7,6.9,67.1,58.8,D,Self Study,Poor
+STU1053,10,Female,Ryan International,Science,1.9,83.9,60.3,7.9,83.4,51.9,D,Online Courses,Average
+STU1054,10,Male,Modern School,English,2.5,91.9,71.5,6.3,60.6,56.0,D,Self Study,Good
+STU1055,9,Male,Delhi Public School,Social Studies,4.0,91.6,61.5,7.4,44.1,58.3,D,Self Study,Good
+STU1056,10,Female,St. Xavier's,Social Studies,4.9,63.2,85.2,6.7,56.9,60.6,C,Online Courses,Good
+STU1057,12,Male,DAV Public School,Computer Science,1.5,85.2,78.7,8.4,98.0,69.8,C,Online Courses,Good
+STU1058,11,Male,Modern School,Social Studies,2.2,86.9,100.0,7.2,66.4,71.1,B,Coaching,Average
+STU1059,9,Female,Kendriya Vidyalaya,Social Studies,1.3,84.1,67.1,8.0,65.5,54.9,D,Self Study,Good
+STU1060,9,Female,Kendriya Vidyalaya,English,2.2,94.0,73.0,5.9,66.8,57.3,D,Study Group,Good
+STU1061,9,Female,Delhi Public School,English,1.7,60.7,92.2,6.4,64.7,54.6,D,Study Group,Average
+STU1062,9,Male,St. Xavier's,Mathematics,5.0,100.0,100.0,7.4,54.9,67.0,C,Study Group,Average
+STU1063,10,Male,St. Xavier's,Social Studies,3.7,91.6,80.7,7.2,80.6,63.8,C,Online Courses,Good
+STU1064,12,Female,Ryan International,Mathematics,3.4,86.2,56.4,8.3,52.6,61.7,C,Study Group,Average
+STU1065,11,Male,DAV Public School,Computer Science,2.8,67.0,79.1,5.9,65.8,60.0,D,Online Courses,Average
+STU1066,12,Male,DAV Public School,Science,0.7,78.5,91.1,7.8,57.1,48.8,D,Coaching,Average
+STU1067,12,Male,DAV Public School,Science,2.4,98.6,81.4,8.2,65.1,68.7,C,Self Study,Poor
+STU1068,10,Male,Modern School,Social Studies,2.2,80.7,87.5,7.2,67.0,63.5,C,Coaching,Average
+STU1069,10,Female,DAV Public School,Computer Science,1.4,74.7,58.0,7.0,54.4,55.3,D,Self Study,Good
+STU1070,9,Male,Ryan International,Science,2.5,81.2,96.0,6.8,75.8,55.6,D,Coaching,Poor
+STU1071,9,Male,DAV Public School,Science,4.6,70.9,74.5,5.0,53.3,51.8,D,Study Group,Good
+STU1072,9,Female,Delhi Public School,Social Studies,6.0,81.1,78.4,6.2,57.9,67.7,C,Online Courses,Good
+STU1073,11,Male,Delhi Public School,Mathematics,3.9,66.9,100.0,6.0,51.7,61.0,C,Online Courses,Average
+STU1074,12,Male,Kendriya Vidyalaya,Computer Science,0.8,71.8,67.1,7.8,62.8,62.0,C,Study Group,Good
+STU1075,12,Female,Ryan International,Science,3.5,82.2,56.1,7.2,80.8,51.1,D,Self Study,Good
+STU1076,10,Female,Delhi Public School,Science,2.9,65.3,99.4,5.2,78.9,60.4,C,Online Courses,Average
+STU1077,10,Male,Delhi Public School,Computer Science,2.6,72.7,82.0,5.3,72.9,54.3,D,Online Courses,Good
+STU1078,12,Male,Kendriya Vidyalaya,English,2.2,93.0,69.7,5.3,98.0,63.7,C,Self Study,Average
+STU1079,12,Female,DAV Public School,Science,2.4,67.5,66.6,7.9,69.2,48.1,D,Self Study,Good
+STU1080,12,Male,Ryan International,Mathematics,4.0,69.6,71.9,8.5,66.8,49.8,D,Study Group,Average
+STU1081,10,Male,DAV Public School,Computer Science,4.3,90.7,68.1,6.4,78.1,66.6,C,Self Study,Poor
+STU1082,9,Male,Delhi Public School,Social Studies,2.1,73.2,70.3,5.9,80.5,55.2,D,Study Group,Good
+STU1083,9,Male,Kendriya Vidyalaya,Science,4.1,80.0,84.9,7.9,58.1,58.2,D,Self Study,Good
+STU1084,11,Female,Kendriya Vidyalaya,Social Studies,0.4,100.0,90.8,7.7,72.5,64.2,C,Self Study,Average
+STU1085,10,Male,Ryan International,Computer Science,3.2,96.7,64.6,5.6,69.9,58.6,D,Coaching,Average
+STU1086,11,Female,St. Xavier's,Science,3.4,93.3,83.7,6.2,49.0,59.8,D,Self Study,Good
+STU1087,12,Male,St. Xavier's,Mathematics,2.6,95.7,80.4,6.4,68.0,61.6,C,Online Courses,Average
+STU1088,10,Male,DAV Public School,English,2.9,86.0,88.4,5.3,84.0,58.1,D,Study Group,Good
+STU1089,10,Male,Delhi Public School,English,3.1,74.5,89.4,7.9,78.6,62.4,C,Coaching,Poor
+STU1090,10,Female,Modern School,English,5.1,74.0,80.6,5.2,66.0,54.8,D,Study Group,Average
+STU1091,12,Female,Delhi Public School,Social Studies,0.9,96.3,74.7,6.5,81.7,66.8,C,Coaching,Good
+STU1092,9,Female,DAV Public School,Science,2.0,95.8,82.3,6.0,73.4,60.3,C,Online Courses,Average
+STU1093,11,Male,Modern School,English,2.6,73.8,72.3,8.7,68.5,60.3,C,Self Study,Good
+STU1094,10,Male,Modern School,Mathematics,5.9,77.8,81.9,8.4,71.6,60.1,C,Coaching,Poor
+STU1095,12,Female,Modern School,English,0.3,88.1,77.7,6.3,58.6,47.6,D,Study Group,Average
+STU1096,10,Female,DAV Public School,Science,5.2,77.2,67.4,8.1,69.1,65.3,C,Coaching,Average
+STU1097,9,Male,Delhi Public School,Science,1.9,78.2,92.8,6.1,48.1,43.9,D,Online Courses,Good
+STU1098,11,Female,Delhi Public School,Computer Science,3.4,84.7,83.9,7.5,59.1,50.3,D,Coaching,Good
+STU1099,9,Female,St. Xavier's,Computer Science,2.8,88.5,83.6,7.1,74.9,62.3,C,Study Group,Good
+STU1100,11,Female,DAV Public School,English,3.0,80.3,89.5,9.1,85.2,64.8,C,Online Courses,Average
+STU1101,11,Male,Modern School,Mathematics,4.0,80.3,82.7,8.2,51.5,63.5,C,Self Study,Average
+STU1102,9,Male,Delhi Public School,English,0.3,70.6,68.2,5.9,63.5,47.5,D,Coaching,Average
+STU1103,10,Male,St. Xavier's,Social Studies,3.4,80.8,51.8,6.9,91.4,59.7,D,Self Study,Average
+STU1104,9,Male,St. Xavier's,Social Studies,5.0,88.2,89.4,6.4,74.5,71.0,B,Study Group,Good
+STU1105,12,Male,Ryan International,Computer Science,3.9,80.1,98.7,7.7,80.5,73.1,B,Study Group,Good
+STU1106,11,Male,DAV Public School,Science,4.3,92.6,93.2,6.8,63.6,62.6,C,Coaching,Poor
+STU1107,12,Male,Ryan International,English,4.8,97.9,98.2,5.2,65.4,65.0,C,Coaching,Good
+STU1108,9,Female,DAV Public School,English,0.3,97.2,78.2,9.7,53.0,49.3,D,Self Study,Good
+STU1109,10,Female,St. Xavier's,Science,3.1,99.3,82.9,6.3,51.1,62.0,C,Coaching,Poor
+STU1110,12,Male,Ryan International,Computer Science,1.6,85.0,94.2,7.1,60.0,46.7,D,Coaching,Good
+STU1111,11,Male,St. Xavier's,English,3.3,79.1,60.6,5.6,85.6,58.8,D,Self Study,Good
+STU1112,12,Female,Delhi Public School,English,3.5,90.9,100.0,8.9,71.1,65.7,C,Coaching,Average
+STU1113,11,Female,DAV Public School,Computer Science,4.1,86.6,94.3,6.6,65.4,65.5,C,Online Courses,Average
+STU1114,11,Male,Delhi Public School,Computer Science,2.7,78.0,65.3,6.4,40.4,45.6,D,Study Group,Average
+STU1115,12,Female,DAV Public School,Mathematics,2.0,75.8,52.3,7.5,83.7,55.8,D,Coaching,Good
+STU1116,12,Male,Modern School,Social Studies,4.1,70.1,78.6,6.5,53.3,52.3,D,Self Study,Good
+STU1117,9,Female,Modern School,English,1.8,89.4,100.0,6.4,66.1,67.0,C,Online Courses,Good
+STU1118,10,Female,Modern School,English,3.8,79.1,75.1,6.3,69.9,65.3,C,Self Study,Good
+STU1119,10,Female,Delhi Public School,Mathematics,4.1,83.3,87.3,8.0,85.7,81.2,A,Online Courses,Good
+STU1120,11,Male,Modern School,English,4.9,97.6,100.0,4.4,65.1,45.1,D,Self Study,Good
+STU1121,11,Male,Delhi Public School,Mathematics,3.9,99.4,79.3,7.9,68.7,73.2,B,Online Courses,Average
+STU1122,12,Female,St. Xavier's,Mathematics,2.6,81.8,63.9,8.1,62.7,56.6,D,Coaching,Good
+STU1123,12,Female,Ryan International,Science,2.6,78.5,75.5,7.4,62.5,64.0,C,Coaching,Good
+STU1124,12,Female,Delhi Public School,Computer Science,1.1,86.8,95.3,8.3,59.7,55.0,D,Study Group,Average
+STU1125,11,Male,DAV Public School,Mathematics,1.2,78.8,58.8,7.6,80.3,60.8,C,Self Study,Average
+STU1126,10,Male,Kendriya Vidyalaya,Social Studies,2.4,71.8,48.0,8.1,57.5,47.6,D,Study Group,Average
+STU1127,11,Female,Modern School,Science,4.0,78.4,68.7,7.3,59.5,73.8,B,Online Courses,Average
+STU1128,11,Male,DAV Public School,Mathematics,1.5,85.9,66.3,6.0,66.3,68.3,C,Study Group,Good
+STU1129,12,Female,Kendriya Vidyalaya,Science,0.5,84.3,89.7,7.4,75.8,63.1,C,Study Group,Good
+STU1130,12,Female,DAV Public School,Mathematics,0.4,78.4,85.6,6.8,30.0,48.0,D,Coaching,Good
+STU1131,10,Female,Modern School,English,1.7,82.3,80.4,7.1,69.1,53.6,D,Study Group,Average
+STU1132,12,Male,Kendriya Vidyalaya,English,3.0,69.4,87.3,7.3,72.5,61.0,C,Self Study,Average
+STU1133,9,Male,DAV Public School,Mathematics,2.4,68.5,84.0,6.8,73.5,58.6,D,Self Study,Good
+STU1134,12,Male,Ryan International,Mathematics,1.5,75.7,88.3,8.5,74.6,62.6,C,Coaching,Poor
+STU1135,9,Female,Delhi Public School,Computer Science,2.9,71.1,66.9,5.4,63.1,63.3,C,Study Group,Average
+STU1136,11,Female,St. Xavier's,Science,0.3,75.9,49.5,6.5,48.2,53.7,D,Online Courses,Good
+STU1137,11,Female,DAV Public School,Science,1.3,100.0,100.0,7.9,64.5,63.2,C,Coaching,Good
+STU1138,9,Male,Kendriya Vidyalaya,Science,4.3,85.8,72.4,5.1,55.2,50.5,D,Study Group,Average
+STU1139,11,Male,Delhi Public School,Mathematics,3.1,80.5,43.7,6.5,67.6,46.9,D,Coaching,Average
+STU1140,10,Female,Delhi Public School,Mathematics,4.1,94.8,55.7,8.0,49.8,70.6,B,Online Courses,Average
+STU1141,9,Female,Modern School,Science,2.4,68.8,54.6,8.6,69.3,64.5,C,Self Study,Average
+STU1142,12,Female,Ryan International,Science,4.5,84.1,92.1,5.8,56.1,65.2,C,Coaching,Good
+STU1143,11,Male,Kendriya Vidyalaya,Computer Science,3.8,85.4,89.2,6.5,46.5,63.3,C,Coaching,Average
+STU1144,11,Female,St. Xavier's,Mathematics,2.3,88.9,49.3,6.5,68.3,61.6,C,Coaching,Average
+STU1145,9,Male,Modern School,Mathematics,0.7,94.3,90.8,7.9,41.8,49.6,D,Online Courses,Good
+STU1146,11,Female,Modern School,Mathematics,4.3,68.4,86.1,7.5,77.6,71.3,B,Online Courses,Good
+STU1147,11,Female,DAV Public School,Mathematics,1.4,79.0,56.4,8.4,54.4,57.4,D,Self Study,Average
+STU1148,9,Female,DAV Public School,Science,6.5,96.8,71.4,7.7,64.3,75.2,B,Online Courses,Average
+STU1149,10,Male,St. Xavier's,Science,1.8,71.9,80.8,8.0,65.3,47.6,D,Study Group,Good
+STU1150,9,Male,Modern School,Science,0.3,87.2,58.8,7.3,68.4,49.0,D,Study Group,Good
+STU1151,11,Female,DAV Public School,English,3.9,88.8,87.8,7.4,51.7,60.4,C,Online Courses,Poor
+STU1152,10,Female,Delhi Public School,Science,1.2,95.7,88.9,7.0,75.8,78.5,B,Study Group,Good
+STU1153,9,Female,Kendriya Vidyalaya,Social Studies,5.4,90.3,92.8,5.6,98.0,78.5,B,Coaching,Good
+STU1154,10,Male,DAV Public School,Mathematics,5.6,84.9,59.2,6.6,78.2,57.9,D,Online Courses,Good
+STU1155,10,Female,Ryan International,Computer Science,2.0,93.9,48.6,6.0,73.3,55.7,D,Study Group,Average
+STU1156,9,Female,DAV Public School,Social Studies,1.4,80.2,62.8,8.2,83.1,65.6,C,Coaching,Average
+STU1157,11,Male,Ryan International,English,3.8,66.4,68.2,6.8,65.6,58.5,D,Online Courses,Average
+STU1158,12,Female,Ryan International,Science,2.9,76.6,98.1,8.0,82.2,79.9,B,Online Courses,Good
+STU1159,11,Male,DAV Public School,English,3.6,75.9,69.8,6.8,53.4,51.1,D,Online Courses,Good
+STU1160,11,Male,DAV Public School,English,2.6,90.0,78.7,7.6,69.5,48.7,D,Coaching,Good
+STU1161,11,Female,Delhi Public School,Social Studies,7.0,71.4,67.2,6.1,81.5,65.7,C,Study Group,Average
+STU1162,11,Male,St. Xavier's,Computer Science,4.9,79.7,80.8,7.0,60.6,67.2,C,Study Group,Good
+STU1163,10,Female,Delhi Public School,Mathematics,3.1,100.0,67.7,6.1,55.3,63.1,C,Online Courses,Good
+STU1164,10,Female,Ryan International,Social Studies,2.6,82.6,81.4,10.0,48.7,46.4,D,Study Group,Average
+STU1165,11,Female,St. Xavier's,Computer Science,2.3,86.5,85.0,5.0,84.8,49.4,D,Study Group,Poor
+STU1166,9,Female,Ryan International,Social Studies,0.7,93.3,84.6,7.5,57.0,61.6,C,Coaching,Average
+STU1167,12,Male,DAV Public School,English,5.2,76.7,60.3,8.2,67.6,60.3,C,Coaching,Average
+STU1168,11,Male,Delhi Public School,Mathematics,2.0,95.1,84.2,7.7,60.3,57.2,D,Coaching,Good
+STU1169,9,Male,St. Xavier's,Computer Science,2.3,80.7,66.7,7.2,80.4,39.7,D,Study Group,Good
+STU1170,9,Male,St. Xavier's,Science,0.3,85.1,76.7,7.4,50.2,63.9,C,Study Group,Good
+STU1171,10,Male,DAV Public School,Computer Science,0.3,80.4,84.2,6.3,67.9,52.0,D,Study Group,Poor
+STU1172,10,Male,Modern School,Science,3.8,64.7,95.6,8.4,67.8,55.7,D,Coaching,Good
+STU1173,12,Female,Ryan International,Social Studies,4.2,89.1,60.8,8.1,67.7,67.4,C,Online Courses,Good
+STU1174,12,Male,DAV Public School,Computer Science,3.2,100.0,67.3,7.2,89.8,60.0,C,Study Group,Average
+STU1175,11,Male,DAV Public School,Mathematics,2.7,94.2,69.8,5.4,69.3,58.6,D,Coaching,Good
+STU1176,11,Female,DAV Public School,Mathematics,4.7,80.5,81.1,5.2,44.9,66.8,C,Study Group,Good
+STU1177,11,Male,DAV Public School,Mathematics,4.2,93.0,71.9,6.0,64.9,54.0,D,Study Group,Good
+STU1178,11,Female,DAV Public School,Mathematics,4.6,81.7,81.7,7.5,51.8,58.2,D,Self Study,Good
+STU1179,11,Female,Ryan International,Computer Science,1.8,91.5,83.7,5.5,79.9,56.6,D,Coaching,Good
+STU1180,10,Male,Ryan International,Social Studies,2.2,93.7,100.0,8.1,65.9,64.0,C,Self Study,Good
+STU1181,12,Male,Modern School,Social Studies,3.1,82.2,74.8,4.6,63.8,44.3,D,Coaching,Poor
+STU1182,9,Male,DAV Public School,Social Studies,2.7,86.0,82.8,7.3,72.5,57.7,D,Coaching,Average
+STU1183,9,Female,Kendriya Vidyalaya,Computer Science,2.5,88.1,71.4,7.4,60.1,57.6,D,Self Study,Good
+STU1184,12,Male,Delhi Public School,Computer Science,2.6,77.9,74.9,7.6,74.6,67.2,C,Coaching,Average
+STU1185,10,Male,Ryan International,Mathematics,3.5,81.7,81.2,8.4,67.8,55.7,D,Coaching,Good
+STU1186,12,Male,DAV Public School,English,3.1,69.3,82.9,6.2,65.0,52.7,D,Coaching,Good
+STU1187,10,Female,DAV Public School,English,2.3,79.5,85.2,7.1,61.5,56.8,D,Study Group,Average
+STU1188,12,Male,Modern School,Mathematics,2.7,94.2,77.7,7.3,41.6,57.3,D,Online Courses,Average
+STU1189,11,Male,St. Xavier's,English,3.4,77.9,89.1,7.1,52.9,46.5,D,Study Group,Good
+STU1190,10,Female,St. Xavier's,English,1.8,61.9,98.0,5.0,66.2,44.3,D,Online Courses,Poor
+STU1191,10,Female,Delhi Public School,Computer Science,0.8,70.4,90.3,7.1,94.8,59.2,D,Online Courses,Average
+STU1192,9,Male,Delhi Public School,Mathematics,5.6,73.0,48.3,5.8,73.4,56.6,D,Online Courses,Good
+STU1193,11,Male,DAV Public School,Social Studies,1.8,86.5,65.7,9.6,73.4,48.5,D,Study Group,Poor
+STU1194,11,Female,Kendriya Vidyalaya,Computer Science,1.2,85.4,86.5,6.7,78.5,55.8,D,Coaching,Poor
+STU1195,10,Male,DAV Public School,Social Studies,4.4,59.7,95.6,6.5,52.2,61.1,C,Study Group,Good
+STU1196,9,Female,Delhi Public School,Computer Science,2.9,78.9,73.1,6.2,72.4,65.8,C,Coaching,Good
+STU1197,12,Male,DAV Public School,Science,1.1,82.3,83.9,5.5,58.7,58.1,D,Coaching,Poor
+STU1198,12,Female,Ryan International,Mathematics,4.5,76.0,85.7,7.3,57.8,66.0,C,Online Courses,Average
+STU1199,11,Female,Modern School,Mathematics,4.9,93.2,74.5,6.4,49.1,58.5,D,Self Study,Good
+STU1200,11,Female,St. Xavier's,Computer Science,3.7,65.9,69.3,7.6,61.6,50.3,D,Study Group,Average
+STU1201,11,Female,Kendriya Vidyalaya,Computer Science,2.2,100.0,96.5,8.0,52.3,65.4,C,Online Courses,Good
+STU1202,10,Male,Delhi Public School,Social Studies,3.5,86.2,75.9,5.9,76.2,57.6,D,Self Study,Average
+STU1203,9,Male,Delhi Public School,Social Studies,2.9,87.1,54.7,7.5,45.9,48.2,D,Study Group,Good
+STU1204,11,Male,DAV Public School,Social Studies,4.0,91.3,73.3,7.7,49.7,59.8,D,Self Study,Average
+STU1205,12,Male,DAV Public School,English,2.4,61.6,84.6,7.9,63.1,55.0,D,Study Group,Good
+STU1206,12,Female,Ryan International,Computer Science,4.1,71.1,73.3,8.3,53.5,57.6,D,Study Group,Good
+STU1207,10,Male,Ryan International,English,2.2,65.5,78.1,6.5,79.2,58.6,D,Coaching,Average
+STU1208,10,Female,Ryan International,English,1.2,83.6,94.3,8.0,86.5,70.0,C,Coaching,Good
+STU1209,9,Male,Delhi Public School,Mathematics,3.4,86.0,87.2,6.5,65.4,56.5,D,Online Courses,Good
+STU1210,11,Female,Modern School,Science,3.3,79.0,86.4,7.7,86.1,56.2,D,Coaching,Good
+STU1211,9,Female,St. Xavier's,Social Studies,2.0,99.8,80.3,6.4,65.7,61.4,C,Online Courses,Good
+STU1212,9,Male,DAV Public School,Science,3.4,84.0,65.2,7.1,59.9,52.1,D,Online Courses,Good
+STU1213,12,Female,Ryan International,Mathematics,2.2,68.4,61.3,7.0,57.3,54.6,D,Study Group,Good
+STU1214,11,Male,Kendriya Vidyalaya,Science,0.9,88.3,93.5,6.9,56.9,48.9,D,Online Courses,Poor
+STU1215,11,Male,Delhi Public School,Science,3.3,92.0,90.4,8.8,86.3,78.0,B,Self Study,Good
+STU1216,11,Male,Kendriya Vidyalaya,Computer Science,2.4,80.0,77.9,8.4,62.6,62.0,C,Study Group,Good
+STU1217,12,Female,Kendriya Vidyalaya,English,5.2,76.7,83.5,6.1,88.3,59.9,D,Study Group,Good
+STU1218,10,Female,Delhi Public School,Social Studies,2.5,96.7,67.1,5.3,53.2,52.6,D,Self Study,Average
+STU1219,12,Male,Ryan International,Computer Science,0.9,80.2,95.8,8.4,66.4,44.5,D,Study Group,Average
+STU1220,9,Female,St. Xavier's,English,1.8,77.2,65.1,7.1,98.0,56.7,D,Self Study,Average
+STU1221,9,Female,Delhi Public School,English,4.0,80.3,78.5,8.3,53.2,60.0,C,Coaching,Good
+STU1222,9,Female,St. Xavier's,English,2.0,84.8,100.0,9.2,43.0,58.5,D,Coaching,Good
+STU1223,9,Male,Ryan International,Computer Science,3.7,82.2,60.9,8.0,70.3,52.9,D,Online Courses,Average
+STU1224,12,Female,St. Xavier's,Science,2.6,82.5,79.6,6.6,56.8,33.4,D,Self Study,Good
+STU1225,11,Female,St. Xavier's,Social Studies,4.1,53.4,84.4,4.5,62.4,58.7,D,Online Courses,Poor
+STU1226,11,Male,Delhi Public School,Mathematics,1.1,85.5,91.0,7.6,74.6,61.7,C,Online Courses,Average
+STU1227,9,Male,DAV Public School,English,1.1,85.3,73.3,7.2,62.0,44.5,D,Self Study,Average
+STU1228,11,Female,Modern School,Science,1.3,92.5,78.9,7.2,84.3,62.3,C,Coaching,Good
+STU1229,12,Female,DAV Public School,English,1.4,77.9,66.7,5.9,43.2,53.9,D,Coaching,Good
+STU1230,10,Male,Ryan International,English,3.7,81.1,82.6,8.6,82.9,62.0,C,Online Courses,Good
+STU1231,10,Male,Modern School,English,3.8,91.5,75.2,4.4,51.9,48.1,D,Online Courses,Poor
+STU1232,9,Male,Kendriya Vidyalaya,English,3.4,82.9,96.5,8.0,64.2,70.8,B,Coaching,Average
+STU1233,12,Male,Delhi Public School,Mathematics,3.9,87.3,68.1,7.6,63.8,80.8,A,Study Group,Good
+STU1234,9,Female,St. Xavier's,Mathematics,2.1,58.0,100.0,7.4,62.1,58.9,D,Coaching,Poor
+STU1235,10,Male,Delhi Public School,Mathematics,4.2,77.3,86.6,7.1,79.4,66.8,C,Self Study,Good
+STU1236,10,Female,DAV Public School,Science,3.0,96.7,73.9,4.8,64.4,63.9,C,Self Study,Average
+STU1237,9,Female,St. Xavier's,Mathematics,1.4,92.2,85.4,7.8,68.5,60.7,C,Coaching,Good
+STU1238,9,Male,Delhi Public School,Computer Science,3.8,78.2,68.0,6.1,49.1,44.6,D,Coaching,Average
+STU1239,9,Female,DAV Public School,Science,1.1,82.3,86.0,7.2,88.8,75.9,B,Self Study,Good
+STU1240,11,Male,Ryan International,Science,2.1,45.0,75.3,5.6,85.4,51.7,D,Online Courses,Good
+STU1241,10,Male,DAV Public School,Computer Science,2.3,82.6,87.0,7.6,78.5,60.5,C,Online Courses,Good
+STU1242,9,Male,Delhi Public School,Computer Science,0.3,79.1,41.3,6.6,81.9,52.1,D,Self Study,Average
+STU1243,9,Female,Delhi Public School,Social Studies,5.1,82.5,80.2,6.7,75.5,66.8,C,Online Courses,Average
+STU1244,12,Male,St. Xavier's,Mathematics,3.8,85.5,93.0,8.5,34.8,65.9,C,Coaching,Average
+STU1245,9,Female,Ryan International,English,2.8,61.8,67.5,7.8,67.8,58.4,D,Study Group,Good
+STU1246,11,Male,Ryan International,Social Studies,2.9,79.4,74.1,6.6,60.4,64.5,C,Coaching,Good
+STU1247,9,Male,Kendriya Vidyalaya,Computer Science,1.8,91.4,93.3,8.4,83.6,61.3,C,Study Group,Good
+STU1248,12,Female,Delhi Public School,Science,2.5,98.9,85.6,5.2,74.6,71.0,B,Online Courses,Good
+STU1249,10,Female,St. Xavier's,Science,3.0,72.7,100.0,8.5,75.6,56.7,D,Study Group,Good
+STU1250,11,Female,Modern School,Computer Science,1.9,86.2,86.1,4.9,82.0,50.5,D,Self Study,Average
+STU1251,11,Female,Kendriya Vidyalaya,Science,1.2,79.4,75.8,6.2,62.6,56.1,D,Study Group,Good
+STU1252,11,Female,Ryan International,Science,1.4,78.8,89.3,7.3,79.8,68.8,C,Coaching,Average
+STU1253,11,Female,Delhi Public School,Computer Science,3.4,83.2,90.6,6.5,68.2,62.1,C,Coaching,Good
+STU1254,12,Female,Kendriya Vidyalaya,Social Studies,3.9,82.0,92.3,6.9,82.1,72.2,B,Self Study,Average
+STU1255,12,Female,Kendriya Vidyalaya,Social Studies,0.6,83.0,64.1,8.5,70.8,59.0,D,Self Study,Poor
+STU1256,9,Male,Modern School,Social Studies,4.1,81.9,75.8,6.8,80.6,64.9,C,Online Courses,Good
+STU1257,9,Male,DAV Public School,Science,3.8,81.1,100.0,7.4,77.0,69.2,C,Online Courses,Average
+STU1258,9,Male,Delhi Public School,Computer Science,1.5,77.3,49.8,9.0,81.9,45.5,D,Study Group,Good
+STU1259,12,Female,Delhi Public School,Mathematics,2.2,87.7,79.5,9.5,74.2,61.2,C,Self Study,Good
+STU1260,11,Female,Kendriya Vidyalaya,Social Studies,4.7,81.5,57.6,6.0,61.1,68.5,C,Self Study,Average
+STU1261,11,Male,St. Xavier's,English,4.7,88.7,68.2,6.8,71.8,58.0,D,Online Courses,Good
+STU1262,9,Female,Kendriya Vidyalaya,Science,3.3,91.0,91.7,5.3,68.6,64.8,C,Self Study,Average
+STU1263,9,Male,St. Xavier's,Science,1.9,63.7,65.2,5.2,45.9,40.9,D,Online Courses,Good
+STU1264,12,Female,St. Xavier's,Mathematics,1.1,73.4,74.6,7.9,69.8,42.1,D,Online Courses,Good
+STU1265,12,Male,Delhi Public School,Computer Science,2.4,75.7,91.8,4.9,83.8,69.3,C,Study Group,Good
+STU1266,9,Female,Modern School,Computer Science,2.0,80.9,63.9,4.5,77.1,54.6,D,Self Study,Good
+STU1267,9,Female,Modern School,Computer Science,1.5,61.9,69.8,7.4,58.8,51.5,D,Coaching,Good
+STU1268,11,Male,Modern School,Computer Science,2.3,93.4,51.3,7.7,56.1,58.3,D,Self Study,Average
+STU1269,11,Female,Delhi Public School,Science,2.4,70.5,85.5,6.7,73.7,49.5,D,Study Group,Good
+STU1270,9,Female,Delhi Public School,Computer Science,2.0,90.4,50.1,7.3,66.4,50.0,D,Online Courses,Average
+STU1271,11,Male,Delhi Public School,Mathematics,1.0,75.2,90.2,6.7,58.6,56.5,D,Online Courses,Poor
+STU1272,12,Female,Delhi Public School,Social Studies,2.5,83.3,90.2,7.3,63.0,53.7,D,Online Courses,Good
+STU1273,10,Female,Kendriya Vidyalaya,Mathematics,4.0,89.9,73.0,6.2,73.4,62.9,C,Study Group,Average
+STU1274,12,Female,DAV Public School,English,1.4,83.3,88.2,8.3,69.1,71.1,B,Study Group,Average
+STU1275,9,Female,Ryan International,Computer Science,1.0,85.1,82.0,8.4,71.4,49.1,D,Online Courses,Good
+STU1276,9,Female,Kendriya Vidyalaya,English,2.9,79.8,59.5,5.6,44.1,58.1,D,Self Study,Average
+STU1277,10,Female,St. Xavier's,Science,3.4,86.9,92.5,6.2,45.9,64.1,C,Study Group,Average
+STU1278,10,Male,Delhi Public School,English,4.1,84.0,82.5,9.8,82.0,78.8,B,Study Group,Poor
+STU1279,9,Female,Delhi Public School,English,2.2,84.1,100.0,8.1,78.0,73.4,B,Coaching,Good
+STU1280,10,Female,Modern School,Science,0.3,83.1,86.6,5.4,59.6,58.7,D,Online Courses,Average
+STU1281,12,Male,Ryan International,Science,2.1,85.5,82.4,7.5,56.6,58.6,D,Self Study,Average
+STU1282,11,Female,DAV Public School,English,4.2,91.0,60.1,7.1,58.9,56.7,D,Online Courses,Average
+STU1283,11,Female,Delhi Public School,Social Studies,5.8,84.3,63.3,7.3,38.0,68.4,C,Online Courses,Average
+STU1284,11,Female,DAV Public School,Mathematics,2.8,75.3,72.0,7.5,53.7,64.7,C,Study Group,Good
+STU1285,12,Male,Kendriya Vidyalaya,Science,2.0,70.4,84.9,7.3,66.0,55.3,D,Online Courses,Good
+STU1286,12,Male,St. Xavier's,English,0.3,80.9,58.6,8.3,71.5,56.4,D,Coaching,Average
+STU1287,9,Female,Delhi Public School,Computer Science,3.7,77.5,76.8,6.0,60.0,49.0,D,Self Study,Good
+STU1288,12,Male,Delhi Public School,English,5.2,86.8,64.5,8.4,70.4,76.6,B,Online Courses,Average
+STU1289,11,Male,Ryan International,Science,1.8,77.9,97.4,5.7,67.9,63.8,C,Self Study,Average
+STU1290,11,Male,DAV Public School,Science,2.0,82.5,96.6,7.2,68.3,60.4,C,Coaching,Good
+STU1291,9,Male,Kendriya Vidyalaya,Social Studies,2.5,80.1,74.2,6.0,71.2,61.3,C,Study Group,Average
+STU1292,11,Male,Ryan International,English,0.3,93.8,78.1,7.7,60.3,51.7,D,Study Group,Good
+STU1293,10,Female,St. Xavier's,English,0.9,86.4,86.5,7.9,72.3,50.1,D,Coaching,Average
+STU1294,12,Male,DAV Public School,English,1.8,88.3,73.6,6.0,93.0,68.5,C,Self Study,Average
+STU1295,9,Male,Delhi Public School,Mathematics,1.9,80.4,53.5,7.0,72.7,53.7,D,Study Group,Good
+STU1296,12,Female,St. Xavier's,English,3.7,82.5,98.9,5.9,77.8,60.8,C,Online Courses,Average
+STU1297,12,Male,Kendriya Vidyalaya,Science,0.3,70.8,88.3,6.7,77.3,45.7,D,Self Study,Poor
+STU1298,12,Female,Delhi Public School,Mathematics,4.5,89.0,68.9,4.3,82.5,56.8,D,Coaching,Poor
+STU1299,11,Male,Modern School,Mathematics,3.6,76.0,98.3,7.2,56.2,60.0,D,Coaching,Good
+STU1300,11,Male,Modern School,English,3.8,94.6,71.2,6.1,70.1,64.1,C,Study Group,Average
+STU1301,9,Female,Ryan International,Science,2.4,76.5,95.1,8.7,74.5,68.9,C,Study Group,Good
+STU1302,10,Male,Delhi Public School,Social Studies,1.9,79.6,65.8,7.8,76.7,66.2,C,Self Study,Good
+STU1303,10,Female,Delhi Public School,English,0.8,100.0,100.0,7.2,84.6,65.0,C,Self Study,Average
+STU1304,12,Female,Kendriya Vidyalaya,Science,2.6,84.2,58.3,6.8,76.1,66.6,C,Self Study,Average
+STU1305,9,Female,St. Xavier's,Computer Science,1.7,70.1,80.6,4.1,71.9,52.0,D,Coaching,Good
+STU1306,11,Female,St. Xavier's,Computer Science,3.3,77.4,66.7,6.3,70.7,53.4,D,Coaching,Average
+STU1307,12,Male,Delhi Public School,Science,1.8,78.8,43.3,7.0,74.2,63.1,C,Online Courses,Average
+STU1308,9,Male,Kendriya Vidyalaya,Computer Science,0.3,72.9,54.9,5.6,82.2,51.0,D,Study Group,Good
+STU1309,12,Female,Kendriya Vidyalaya,Science,3.7,83.8,71.6,6.0,73.6,51.3,D,Study Group,Good
+STU1310,9,Female,Kendriya Vidyalaya,Mathematics,2.4,80.6,88.3,6.7,48.1,57.9,D,Self Study,Average
+STU1311,12,Male,Delhi Public School,Computer Science,2.4,94.8,83.6,6.5,66.4,62.5,C,Online Courses,Good
+STU1312,12,Female,Delhi Public School,Computer Science,4.2,64.2,80.2,6.7,72.3,61.6,C,Online Courses,Good
+STU1313,10,Male,Kendriya Vidyalaya,Social Studies,0.3,81.2,70.0,7.5,70.3,50.7,D,Study Group,Average
+STU1314,12,Male,Delhi Public School,Social Studies,1.7,85.3,35.0,6.3,83.8,51.7,D,Coaching,Good
+STU1315,9,Female,Delhi Public School,Mathematics,2.9,89.2,88.5,6.6,58.4,58.4,D,Study Group,Average
+STU1316,9,Male,Kendriya Vidyalaya,Social Studies,0.3,73.3,70.5,8.5,81.6,55.2,D,Study Group,Good
+STU1317,10,Female,Kendriya Vidyalaya,English,4.4,64.0,79.1,5.9,64.3,53.5,D,Study Group,Good
+STU1318,9,Female,Modern School,Computer Science,5.5,72.3,89.9,7.3,79.4,60.2,C,Study Group,Poor
+STU1319,9,Female,St. Xavier's,Computer Science,1.0,75.8,77.2,4.7,77.7,49.9,D,Online Courses,Good
+STU1320,11,Male,Kendriya Vidyalaya,Social Studies,3.5,93.5,78.8,7.6,66.4,67.4,C,Online Courses,Average
+STU1321,11,Female,Modern School,Social Studies,2.4,81.5,100.0,7.3,72.9,61.5,C,Online Courses,Good
+STU1322,12,Male,St. Xavier's,Science,3.0,75.0,80.3,6.8,75.5,71.2,B,Study Group,Good
+STU1323,10,Male,Modern School,Computer Science,5.5,79.2,66.5,7.9,52.7,51.0,D,Coaching,Average
+STU1324,11,Female,DAV Public School,Mathematics,1.9,69.1,98.3,8.1,84.5,56.5,D,Study Group,Good
+STU1325,11,Male,DAV Public School,English,3.0,91.0,58.8,6.0,62.3,54.9,D,Self Study,Average
+STU1326,10,Male,Ryan International,English,2.2,68.7,67.6,8.3,77.8,53.9,D,Online Courses,Good
+STU1327,12,Male,Kendriya Vidyalaya,English,3.4,67.6,80.2,8.5,69.1,61.4,C,Online Courses,Poor
+STU1328,10,Male,Ryan International,Social Studies,3.7,67.5,100.0,6.9,47.6,63.6,C,Self Study,Average
+STU1329,12,Female,Kendriya Vidyalaya,English,3.5,91.9,96.4,5.3,74.9,60.5,C,Online Courses,Poor
+STU1330,9,Female,Kendriya Vidyalaya,Social Studies,1.4,99.8,67.2,8.1,70.9,61.8,C,Online Courses,Good
+STU1331,12,Male,Ryan International,Science,3.6,84.2,91.2,8.5,56.4,57.3,D,Online Courses,Good
+STU1332,10,Female,Modern School,Mathematics,3.9,74.9,88.3,7.0,75.9,67.3,C,Study Group,Average
+STU1333,9,Female,Kendriya Vidyalaya,Science,3.3,66.4,81.9,7.4,59.6,43.6,D,Self Study,Good
+STU1334,9,Female,Kendriya Vidyalaya,Science,2.1,75.2,91.4,6.9,62.5,61.8,C,Self Study,Good
+STU1335,11,Female,St. Xavier's,Mathematics,5.0,93.4,96.1,7.6,98.0,86.4,A,Online Courses,Poor
+STU1336,10,Female,DAV Public School,English,2.5,81.5,88.9,7.2,65.6,67.8,C,Self Study,Average
+STU1337,9,Male,Kendriya Vidyalaya,Social Studies,3.3,75.1,69.6,5.2,37.2,49.1,D,Study Group,Average
+STU1338,12,Female,Modern School,Science,3.4,69.6,83.3,6.0,55.4,44.4,D,Coaching,Good
+STU1339,9,Male,Modern School,Mathematics,4.2,89.6,64.6,6.7,61.7,59.2,D,Study Group,Poor
+STU1340,12,Male,Modern School,Science,2.0,78.7,66.6,5.8,86.2,61.6,C,Coaching,Good
+STU1341,11,Male,Ryan International,Social Studies,3.1,93.9,85.8,5.9,48.0,65.8,C,Self Study,Average
+STU1342,10,Male,Modern School,Mathematics,5.8,82.6,100.0,7.6,69.3,68.7,C,Coaching,Good
+STU1343,12,Female,DAV Public School,Social Studies,4.9,87.9,93.3,4.9,54.8,61.1,C,Self Study,Poor
+STU1344,9,Male,Delhi Public School,Mathematics,5.1,75.9,84.7,7.5,73.1,59.9,D,Coaching,Good
+STU1345,9,Male,DAV Public School,Science,1.5,82.9,88.3,9.0,60.6,63.7,C,Self Study,Good
+STU1346,9,Male,Kendriya Vidyalaya,Social Studies,1.9,75.7,72.6,5.5,72.0,54.6,D,Self Study,Average
+STU1347,10,Male,Ryan International,Social Studies,1.9,73.8,97.4,5.1,66.3,62.0,C,Coaching,Poor
+STU1348,11,Male,Kendriya Vidyalaya,Mathematics,2.8,70.3,64.9,8.4,55.0,47.5,D,Study Group,Good
+STU1349,10,Male,DAV Public School,Computer Science,1.4,76.7,78.4,6.0,67.1,48.5,D,Coaching,Average
+STU1350,11,Male,Modern School,Computer Science,3.4,87.8,79.7,6.9,77.9,60.0,C,Self Study,Average
+STU1351,12,Female,DAV Public School,Science,0.3,78.2,63.3,8.3,67.0,56.2,D,Study Group,Good
+STU1352,10,Male,Delhi Public School,Social Studies,2.8,84.4,77.7,7.4,45.9,50.6,D,Online Courses,Good
+STU1353,11,Male,DAV Public School,Mathematics,2.3,86.5,69.7,6.8,51.2,50.5,D,Coaching,Average
+STU1354,11,Male,Modern School,Science,2.2,99.2,85.6,7.4,96.5,62.0,C,Study Group,Good
+STU1355,9,Male,Kendriya Vidyalaya,Science,1.8,89.2,79.5,8.9,65.5,56.6,D,Coaching,Poor
+STU1356,12,Female,Kendriya Vidyalaya,Mathematics,4.9,78.3,70.2,6.8,66.8,53.8,D,Online Courses,Good
+STU1357,12,Female,Ryan International,Mathematics,4.2,93.1,88.6,7.9,89.0,74.0,B,Study Group,Good
+STU1358,10,Male,Kendriya Vidyalaya,Science,4.6,82.0,60.8,6.2,51.4,56.1,D,Online Courses,Good
+STU1359,9,Male,Delhi Public School,Computer Science,3.5,93.2,90.7,6.9,67.3,66.0,C,Coaching,Good
+STU1360,12,Female,Ryan International,English,3.0,85.1,93.9,7.2,61.4,58.4,D,Coaching,Average
+STU1361,10,Female,Delhi Public School,English,0.7,71.8,64.8,7.2,84.2,55.3,D,Online Courses,Good
+STU1362,10,Male,St. Xavier's,Social Studies,2.1,82.4,66.2,6.5,52.1,50.4,D,Study Group,Average
+STU1363,9,Male,Kendriya Vidyalaya,Social Studies,4.9,81.0,79.5,9.9,82.0,66.2,C,Online Courses,Good
+STU1364,9,Female,Ryan International,Social Studies,5.4,83.8,91.4,6.2,76.0,56.1,D,Study Group,Good
+STU1365,11,Male,Delhi Public School,Mathematics,4.8,83.7,88.7,7.3,64.4,57.8,D,Study Group,Average
+STU1366,9,Male,Ryan International,Computer Science,4.1,84.7,82.6,6.7,69.7,49.3,D,Coaching,Average
+STU1367,12,Male,Kendriya Vidyalaya,Computer Science,1.7,75.9,85.1,7.4,81.6,66.8,C,Online Courses,Average
+STU1368,12,Female,DAV Public School,Science,3.8,69.8,35.0,9.4,94.6,41.5,D,Coaching,Good
+STU1369,11,Male,St. Xavier's,Mathematics,3.1,81.5,81.2,7.5,80.8,50.1,D,Study Group,Good
+STU1370,12,Female,Kendriya Vidyalaya,Computer Science,2.5,83.0,81.8,5.8,76.2,77.2,B,Self Study,Good
+STU1371,9,Male,Kendriya Vidyalaya,English,3.5,94.2,76.4,7.4,72.0,62.3,C,Self Study,Poor
+STU1372,11,Female,Kendriya Vidyalaya,Social Studies,2.9,76.7,95.2,6.0,84.0,72.1,B,Study Group,Average
+STU1373,12,Female,St. Xavier's,Science,2.0,78.7,65.5,6.1,49.9,49.2,D,Self Study,Average
+STU1374,11,Male,Modern School,English,2.2,70.0,100.0,7.4,53.7,49.5,D,Study Group,Good
+STU1375,11,Female,Ryan International,English,1.1,72.7,73.3,6.2,81.4,46.4,D,Online Courses,Good
+STU1376,12,Male,Delhi Public School,Science,4.6,99.5,80.2,6.8,57.3,76.0,B,Self Study,Average
+STU1377,10,Female,St. Xavier's,Computer Science,4.5,75.8,58.7,7.4,77.4,63.9,C,Coaching,Good
+STU1378,10,Female,Ryan International,Science,2.4,75.2,89.3,7.3,69.5,61.5,C,Self Study,Good
+STU1379,12,Female,Ryan International,Science,3.2,87.5,85.8,6.1,63.3,56.7,D,Coaching,Good
+STU1380,9,Female,Modern School,Mathematics,4.7,80.9,78.8,7.1,85.0,72.9,B,Self Study,Average
+STU1381,12,Female,Kendriya Vidyalaya,Mathematics,5.2,82.0,87.0,6.6,79.4,67.8,C,Coaching,Average
+STU1382,9,Female,Modern School,Mathematics,2.6,86.9,93.8,9.2,70.3,54.9,D,Online Courses,Average
+STU1383,9,Female,DAV Public School,Mathematics,2.9,100.0,82.4,6.6,70.1,65.6,C,Online Courses,Good
+STU1384,9,Male,Kendriya Vidyalaya,Mathematics,4.7,93.5,81.9,8.0,73.6,79.6,B,Study Group,Average
+STU1385,10,Female,Modern School,English,0.8,85.6,73.8,6.2,61.1,56.4,D,Study Group,Good
+STU1386,11,Female,Kendriya Vidyalaya,Social Studies,3.6,93.9,91.8,7.6,45.2,63.8,C,Coaching,Good
+STU1387,12,Male,DAV Public School,Science,2.7,100.0,78.6,8.1,67.0,67.2,C,Study Group,Average
+STU1388,9,Male,Ryan International,Science,0.5,59.0,68.9,6.4,69.3,66.1,C,Self Study,Average
+STU1389,11,Male,Modern School,Social Studies,3.5,85.3,67.4,6.9,76.2,64.0,C,Self Study,Good
+STU1390,9,Female,Delhi Public School,English,3.3,75.7,74.2,7.8,70.3,57.9,D,Self Study,Good
+STU1391,10,Female,Ryan International,Social Studies,1.5,78.8,83.7,5.4,66.0,55.7,D,Study Group,Good
+STU1392,9,Female,DAV Public School,Social Studies,2.0,80.5,100.0,7.0,94.1,69.8,C,Self Study,Good
+STU1393,9,Male,St. Xavier's,Social Studies,2.3,81.6,44.9,7.4,60.7,59.2,D,Online Courses,Poor
+STU1394,9,Female,St. Xavier's,Social Studies,1.4,82.4,72.6,6.2,92.3,61.1,C,Online Courses,Average
+STU1395,10,Female,DAV Public School,Science,3.5,71.6,87.0,7.5,70.6,59.6,D,Coaching,Good
+STU1396,11,Female,St. Xavier's,Mathematics,3.1,95.0,64.0,6.3,55.4,56.0,D,Study Group,Good
+STU1397,10,Male,Modern School,Mathematics,2.6,86.8,68.9,5.2,73.9,58.5,D,Study Group,Good
+STU1398,10,Female,St. Xavier's,Mathematics,2.8,73.3,90.9,6.5,52.7,56.3,D,Study Group,Good
+STU1399,11,Male,DAV Public School,Computer Science,3.5,85.6,71.8,6.8,72.4,58.8,D,Study Group,Good
+STU1400,10,Male,Ryan International,English,1.5,85.6,89.7,6.9,30.0,36.9,D,Study Group,Average
+STU1401,9,Female,Delhi Public School,English,1.6,82.9,89.2,8.2,82.2,75.7,B,Online Courses,Good
+STU1402,12,Male,Ryan International,Social Studies,4.2,72.9,65.2,5.5,85.8,64.8,C,Study Group,Average
+STU1403,12,Male,Modern School,Social Studies,2.4,84.9,65.6,4.0,96.8,67.6,C,Online Courses,Good
+STU1404,10,Male,Kendriya Vidyalaya,Mathematics,3.8,77.3,95.3,6.1,59.4,69.6,C,Study Group,Good
+STU1405,12,Female,Delhi Public School,Science,2.7,73.0,76.9,7.6,80.2,53.7,D,Online Courses,Average
+STU1406,12,Male,Delhi Public School,English,5.0,83.5,65.6,9.8,83.1,69.5,C,Study Group,Good
+STU1407,11,Female,Kendriya Vidyalaya,Computer Science,2.6,74.6,100.0,8.5,69.0,54.1,D,Self Study,Good
+STU1408,9,Male,Kendriya Vidyalaya,Mathematics,3.3,100.0,58.3,7.3,74.2,60.0,C,Coaching,Good
+STU1409,9,Male,Ryan International,Science,2.9,96.3,97.0,7.3,54.1,53.0,D,Coaching,Average
+STU1410,9,Male,Delhi Public School,English,1.2,88.6,84.3,6.8,65.3,67.8,C,Online Courses,Average
+STU1411,9,Male,DAV Public School,English,2.7,76.4,70.6,6.7,71.0,39.3,D,Online Courses,Average
+STU1412,10,Male,Modern School,Science,2.9,72.1,58.8,7.2,68.0,51.5,D,Online Courses,Good
+STU1413,11,Female,St. Xavier's,Computer Science,2.7,79.1,86.6,7.5,91.4,76.7,B,Self Study,Good
+STU1414,9,Female,Ryan International,English,4.9,77.8,78.9,6.8,48.7,50.9,D,Self Study,Good
+STU1415,9,Female,Kendriya Vidyalaya,Science,4.0,73.9,73.9,9.3,66.2,62.7,C,Online Courses,Average
+STU1416,12,Female,Delhi Public School,Computer Science,4.6,65.8,63.5,5.6,67.4,57.3,D,Coaching,Good
+STU1417,10,Male,Modern School,Mathematics,3.1,65.5,77.9,6.7,87.4,58.8,D,Self Study,Good
+STU1418,12,Female,Ryan International,Mathematics,3.5,87.4,84.6,5.9,62.9,60.1,C,Online Courses,Good
+STU1419,10,Female,Kendriya Vidyalaya,Mathematics,3.5,76.3,85.6,6.2,57.0,60.5,C,Self Study,Good
+STU1420,9,Male,Delhi Public School,Science,3.2,71.6,52.7,6.4,68.9,54.7,D,Online Courses,Good
+STU1421,11,Female,DAV Public School,Mathematics,0.3,73.0,66.0,6.0,41.3,31.0,D,Coaching,Good
+STU1422,12,Male,St. Xavier's,Social Studies,2.7,81.2,95.3,6.1,70.4,52.3,D,Study Group,Good
+STU1423,9,Female,Modern School,English,1.3,81.0,95.6,7.5,75.2,60.9,C,Study Group,Good
+STU1424,12,Female,Modern School,Science,3.1,89.3,78.9,6.4,48.7,59.5,D,Self Study,Good
+STU1425,10,Female,Ryan International,Science,1.9,88.5,84.7,6.3,52.5,56.2,D,Self Study,Good
+STU1426,11,Female,Kendriya Vidyalaya,Mathematics,2.7,85.2,84.6,6.0,72.2,63.6,C,Self Study,Good
+STU1427,9,Male,Ryan International,Mathematics,3.0,66.7,89.1,5.8,50.6,61.0,C,Online Courses,Average
+STU1428,11,Male,Kendriya Vidyalaya,English,3.4,84.2,80.1,7.3,71.5,69.9,C,Study Group,Average
+STU1429,9,Female,Modern School,Science,2.4,70.7,73.9,7.3,85.5,55.7,D,Self Study,Good
+STU1430,10,Female,DAV Public School,Social Studies,2.2,77.8,72.4,8.7,59.9,51.2,D,Study Group,Good
+STU1431,12,Female,Modern School,Computer Science,5.0,75.1,82.0,7.5,77.7,70.6,B,Coaching,Good
+STU1432,9,Female,Ryan International,Science,1.1,69.0,81.8,7.5,70.7,57.4,D,Online Courses,Good
+STU1433,11,Male,DAV Public School,Computer Science,2.0,81.4,78.2,6.9,73.9,57.9,D,Coaching,Good
+STU1434,9,Male,Kendriya Vidyalaya,English,3.0,78.9,54.8,6.3,51.9,49.7,D,Study Group,Good
+STU1435,12,Female,Delhi Public School,Science,4.4,87.3,55.4,7.8,39.3,55.3,D,Online Courses,Good
+STU1436,11,Male,Delhi Public School,Social Studies,3.2,91.2,83.5,7.1,75.0,80.7,A,Coaching,Average
+STU1437,9,Male,Delhi Public School,Science,2.8,96.5,48.1,5.3,57.8,60.8,C,Self Study,Poor
+STU1438,9,Female,Ryan International,Social Studies,4.5,100.0,85.0,8.4,62.5,77.8,B,Online Courses,Average
+STU1439,9,Female,DAV Public School,Social Studies,2.2,74.6,70.1,6.0,51.5,62.3,C,Study Group,Good
+STU1440,9,Male,Delhi Public School,Social Studies,0.3,91.8,88.8,7.9,51.3,52.0,D,Online Courses,Good
+STU1441,10,Female,Delhi Public School,Mathematics,3.7,89.3,73.9,8.0,58.6,55.0,D,Online Courses,Good
+STU1442,12,Female,St. Xavier's,Social Studies,3.9,100.0,71.7,8.3,49.4,61.9,C,Study Group,Poor
+STU1443,10,Male,Delhi Public School,Science,2.2,99.4,72.8,9.7,66.3,56.7,D,Coaching,Poor
+STU1444,12,Male,St. Xavier's,Science,4.3,90.1,70.9,8.4,66.8,59.0,D,Coaching,Good
+STU1445,10,Male,Modern School,English,4.3,83.0,77.7,5.9,46.1,56.3,D,Coaching,Good
+STU1446,9,Male,St. Xavier's,English,1.1,90.7,95.8,7.5,62.8,49.1,D,Self Study,Good
+STU1447,11,Female,Delhi Public School,Science,2.2,100.0,80.3,6.6,46.8,62.3,C,Online Courses,Good
+STU1448,11,Female,DAV Public School,Social Studies,1.0,74.1,72.0,8.1,80.1,59.4,D,Coaching,Good
+STU1449,11,Male,DAV Public School,Computer Science,1.6,69.0,90.3,9.0,60.7,47.2,D,Study Group,Average
+STU1450,11,Male,Delhi Public School,Mathematics,4.5,81.4,91.7,6.5,52.4,52.2,D,Self Study,Good
+STU1451,9,Female,DAV Public School,Social Studies,0.6,80.0,82.5,7.3,73.0,55.0,D,Online Courses,Good
+STU1452,11,Female,Delhi Public School,Social Studies,2.8,84.2,82.1,4.9,79.6,59.1,D,Study Group,Good
+STU1453,12,Male,St. Xavier's,Computer Science,3.2,83.0,52.7,6.2,95.4,72.7,B,Online Courses,Good
+STU1454,12,Female,Delhi Public School,Science,2.1,57.4,100.0,7.7,72.1,51.0,D,Self Study,Poor
+STU1455,10,Male,St. Xavier's,Science,4.9,90.2,65.8,5.7,40.0,54.7,D,Self Study,Good
+STU1456,12,Male,Ryan International,Computer Science,5.7,82.7,71.9,5.3,68.8,61.8,C,Coaching,Good
+STU1457,11,Female,Modern School,Science,4.2,69.3,71.0,7.4,50.0,38.4,D,Study Group,Good
+STU1458,9,Male,Modern School,Social Studies,5.7,74.4,80.1,7.9,62.3,70.2,B,Online Courses,Good
+STU1459,10,Female,Modern School,Science,1.3,83.8,100.0,7.5,68.0,59.9,D,Study Group,Good
+STU1460,11,Male,DAV Public School,Mathematics,3.2,87.9,77.9,7.5,90.5,69.3,C,Study Group,Good
+STU1461,9,Male,St. Xavier's,Science,3.0,63.1,86.1,5.9,70.9,61.1,C,Study Group,Good
+STU1462,9,Male,Modern School,Science,3.4,80.1,89.3,5.8,74.6,62.7,C,Self Study,Good
+STU1463,11,Male,Ryan International,English,3.5,76.6,73.8,4.1,73.8,61.2,C,Self Study,Good
+STU1464,9,Male,Kendriya Vidyalaya,Science,1.7,90.3,94.1,7.2,97.9,73.1,B,Online Courses,Good
+STU1465,11,Female,Delhi Public School,Mathematics,3.7,60.7,69.3,8.1,55.0,47.1,D,Self Study,Poor
+STU1466,12,Female,Modern School,Science,3.5,74.1,55.8,5.2,71.0,39.8,D,Self Study,Good
+STU1467,12,Male,Kendriya Vidyalaya,Science,2.6,60.0,75.5,5.4,68.2,51.8,D,Study Group,Average
+STU1468,9,Female,St. Xavier's,Social Studies,3.3,90.6,100.0,6.1,42.9,56.8,D,Online Courses,Good
+STU1469,12,Male,Delhi Public School,Social Studies,1.5,86.0,81.9,7.2,63.6,50.1,D,Study Group,Good
+STU1470,9,Female,Modern School,Social Studies,2.2,77.1,53.2,4.3,98.0,58.4,D,Coaching,Good
+STU1471,11,Male,Modern School,Computer Science,3.5,81.8,100.0,5.3,87.1,69.3,C,Online Courses,Average
+STU1472,12,Female,Kendriya Vidyalaya,Science,5.2,89.2,69.2,7.5,47.6,57.6,D,Coaching,Average
+STU1473,11,Female,Delhi Public School,Social Studies,4.7,100.0,79.7,7.3,45.2,55.4,D,Online Courses,Good
+STU1474,9,Female,Modern School,English,3.8,86.7,56.9,7.7,69.2,71.3,B,Self Study,Good
+STU1475,10,Male,Ryan International,Science,2.1,96.0,72.6,6.5,62.7,63.0,C,Coaching,Average
+STU1476,9,Male,Ryan International,Social Studies,4.2,68.4,100.0,7.9,77.8,70.8,B,Coaching,Good
+STU1477,9,Female,St. Xavier's,Social Studies,4.0,77.4,95.9,6.4,48.5,43.5,D,Online Courses,Average
+STU1478,9,Female,Ryan International,Social Studies,1.8,85.3,78.4,6.9,72.5,58.6,D,Online Courses,Good
+STU1479,9,Male,Delhi Public School,Social Studies,4.0,70.9,81.4,6.7,57.9,60.0,C,Self Study,Good
+STU1480,10,Female,Ryan International,Social Studies,2.1,77.5,75.2,6.5,74.0,54.1,D,Online Courses,Good
+STU1481,10,Female,St. Xavier's,Science,3.4,66.9,95.9,6.1,75.9,70.2,B,Study Group,Good
+STU1482,11,Female,Ryan International,Mathematics,3.6,78.9,73.2,7.5,62.3,45.1,D,Online Courses,Average
+STU1483,10,Female,Kendriya Vidyalaya,Mathematics,2.0,92.8,65.2,4.8,52.3,45.5,D,Self Study,Average
+STU1484,10,Female,St. Xavier's,Science,0.5,77.5,80.3,9.2,70.8,46.4,D,Self Study,Good
+STU1485,10,Female,Modern School,Social Studies,2.4,78.2,100.0,6.6,78.7,59.3,D,Online Courses,Good
+STU1486,9,Male,Modern School,Mathematics,4.1,74.9,77.5,8.4,63.8,58.3,D,Coaching,Good
+STU1487,11,Male,St. Xavier's,English,0.3,71.1,70.0,7.7,88.2,57.8,D,Self Study,Good
+STU1488,9,Female,St. Xavier's,Mathematics,2.7,80.5,84.6,9.1,69.0,77.8,B,Study Group,Average
+STU1489,11,Male,St. Xavier's,Science,3.1,82.8,77.8,6.0,82.5,70.5,B,Self Study,Good
+STU1490,10,Female,Ryan International,Mathematics,3.0,78.0,75.2,5.4,67.8,45.4,D,Study Group,Good
+STU1491,11,Male,Delhi Public School,Social Studies,0.4,66.5,81.2,8.6,55.5,56.3,D,Coaching,Good
+STU1492,11,Female,Modern School,English,3.2,86.1,74.4,6.6,56.4,56.6,D,Coaching,Average
+STU1493,9,Male,Delhi Public School,English,0.3,56.1,68.5,5.6,79.7,41.9,D,Online Courses,Good
+STU1494,11,Female,Delhi Public School,Science,2.4,79.4,60.3,7.4,63.7,50.5,D,Coaching,Good
+STU1495,11,Male,St. Xavier's,Social Studies,2.3,90.8,92.5,5.5,58.9,64.0,C,Self Study,Average
+STU1496,9,Female,Delhi Public School,Mathematics,2.5,82.7,78.2,8.7,77.3,60.5,C,Coaching,Average
+STU1497,9,Male,St. Xavier's,Mathematics,2.8,92.8,57.9,7.7,87.0,66.4,C,Online Courses,Average
+STU1498,11,Male,DAV Public School,Computer Science,2.1,90.8,69.8,6.5,65.5,58.8,D,Study Group,Good
+STU1499,12,Female,Modern School,Mathematics,0.3,95.0,59.1,8.0,84.8,50.0,D,Coaching,Average
+STU1500,10,Male,St. Xavier's,English,1.3,85.5,97.1,5.8,57.8,63.7,C,Online Courses,Average
+STU1501,12,Female,DAV Public School,Social Studies,2.8,86.8,93.4,7.3,67.8,50.6,D,Study Group,Good
+STU1502,11,Female,Kendriya Vidyalaya,English,2.5,84.3,82.8,9.3,48.0,51.9,D,Self Study,Good
+STU1503,10,Male,Delhi Public School,Computer Science,1.8,78.4,72.2,6.8,77.1,50.3,D,Self Study,Good
+STU1504,12,Male,Ryan International,Mathematics,1.4,100.0,67.5,9.8,76.2,49.2,D,Coaching,Good
+STU1505,12,Female,Kendriya Vidyalaya,English,4.5,70.3,80.0,8.0,72.6,69.5,C,Online Courses,Good
+STU1506,12,Female,DAV Public School,English,1.8,81.4,89.2,7.2,59.2,57.7,D,Self Study,Good
+STU1507,12,Female,Ryan International,Science,4.8,75.8,98.1,6.5,67.1,63.0,C,Online Courses,Good
+STU1508,12,Male,Ryan International,Computer Science,1.7,100.0,64.4,5.4,86.3,67.9,C,Online Courses,Average
+STU1509,12,Male,St. Xavier's,Mathematics,2.1,65.8,55.1,6.5,58.3,43.2,D,Online Courses,Average
+STU1510,11,Male,Kendriya Vidyalaya,Science,3.9,58.9,91.0,5.7,64.3,52.9,D,Self Study,Average
+STU1511,9,Male,Kendriya Vidyalaya,Mathematics,2.8,80.0,59.2,6.6,61.8,58.8,D,Online Courses,Good
+STU1512,9,Female,Kendriya Vidyalaya,Mathematics,3.9,100.0,100.0,6.0,60.3,74.9,B,Study Group,Average
+STU1513,10,Female,Modern School,Computer Science,1.5,81.0,54.0,5.5,82.7,59.6,D,Self Study,Poor
+STU1514,9,Male,Ryan International,Social Studies,3.8,85.0,72.2,6.6,56.4,53.3,D,Study Group,Good
+STU1515,9,Male,Modern School,Mathematics,3.7,91.8,75.0,6.6,75.6,63.7,C,Coaching,Average
+STU1516,11,Male,Ryan International,Mathematics,1.4,83.1,57.4,4.2,78.7,56.9,D,Study Group,Good
+STU1517,11,Male,Ryan International,Social Studies,5.4,86.3,59.5,7.3,78.4,66.4,C,Online Courses,Average
+STU1518,10,Female,Modern School,Science,2.4,75.8,73.1,6.3,69.8,57.2,D,Coaching,Average
+STU1519,12,Female,Kendriya Vidyalaya,Computer Science,2.7,88.6,52.8,8.3,70.6,55.6,D,Self Study,Good
+STU1520,11,Male,Kendriya Vidyalaya,Science,1.6,83.0,74.9,7.0,52.2,44.8,D,Online Courses,Good
+STU1521,9,Female,Delhi Public School,Mathematics,1.1,72.0,62.9,6.8,52.5,53.4,D,Self Study,Good
+STU1522,12,Male,Delhi Public School,Science,4.4,77.2,79.8,8.3,65.7,71.7,B,Coaching,Good
+STU1523,11,Male,Kendriya Vidyalaya,Computer Science,2.1,86.8,100.0,7.9,31.6,46.2,D,Online Courses,Good
+STU1524,9,Female,Modern School,Social Studies,1.7,97.2,79.1,8.2,73.6,56.4,D,Study Group,Good
+STU1525,9,Male,Modern School,Science,4.0,74.3,71.6,6.8,50.9,54.2,D,Study Group,Good
+STU1526,9,Female,DAV Public School,Mathematics,2.7,82.6,73.6,7.1,75.7,58.6,D,Online Courses,Average
+STU1527,11,Male,Delhi Public School,Mathematics,3.6,95.4,88.1,8.9,79.5,64.8,C,Online Courses,Good
+STU1528,11,Female,Ryan International,Mathematics,3.9,72.5,57.1,8.8,54.9,50.1,D,Online Courses,Good
+STU1529,11,Female,DAV Public School,Mathematics,3.8,85.7,49.1,7.3,52.8,57.2,D,Self Study,Average
+STU1530,11,Male,Ryan International,English,3.3,72.5,78.9,7.0,49.8,56.8,D,Study Group,Poor
+STU1531,11,Male,Modern School,English,5.3,69.4,78.0,6.3,87.4,66.5,C,Study Group,Poor
+STU1532,10,Female,DAV Public School,Science,2.5,80.8,71.6,6.1,66.5,53.4,D,Online Courses,Average
+STU1533,9,Female,St. Xavier's,English,2.6,89.0,86.4,8.4,59.7,54.9,D,Coaching,Average
+STU1534,12,Female,St. Xavier's,Computer Science,1.4,86.4,92.5,7.4,67.6,53.9,D,Study Group,Average
+STU1535,11,Male,DAV Public School,English,2.4,80.8,79.2,6.9,80.7,56.2,D,Online Courses,Good
+STU1536,11,Female,DAV Public School,Mathematics,6.5,75.5,63.1,6.8,45.2,54.8,D,Self Study,Good
+STU1537,9,Female,Modern School,Social Studies,1.7,83.6,93.9,6.2,80.3,51.8,D,Self Study,Poor
+STU1538,10,Female,St. Xavier's,Social Studies,3.5,78.4,79.5,7.0,72.4,58.1,D,Study Group,Good
+STU1539,11,Male,Delhi Public School,Science,5.1,69.6,82.1,5.8,76.5,64.8,C,Study Group,Average
+STU1540,11,Female,DAV Public School,English,4.9,98.0,70.3,6.3,73.9,62.4,C,Self Study,Average
+STU1541,10,Male,Delhi Public School,English,4.5,55.4,83.3,5.3,88.4,77.6,B,Online Courses,Good
+STU1542,11,Male,Kendriya Vidyalaya,Mathematics,1.9,64.2,100.0,8.0,67.5,45.2,D,Self Study,Good
+STU1543,12,Male,Ryan International,Computer Science,0.9,79.9,77.0,8.0,74.0,53.5,D,Coaching,Good
+STU1544,9,Male,Ryan International,Mathematics,1.2,98.3,100.0,8.5,83.1,73.0,B,Coaching,Good
+STU1545,12,Female,St. Xavier's,Mathematics,0.3,86.6,57.1,8.8,80.5,65.3,C,Online Courses,Good
+STU1546,11,Female,DAV Public School,Social Studies,4.6,79.5,85.3,7.5,48.1,45.2,D,Study Group,Good
+STU1547,9,Male,St. Xavier's,Social Studies,3.9,74.7,82.7,7.2,69.5,55.9,D,Self Study,Average
+STU1548,9,Male,Delhi Public School,Social Studies,2.7,84.5,56.6,6.7,45.6,62.5,C,Online Courses,Average
+STU1549,10,Female,Kendriya Vidyalaya,Science,3.2,92.8,89.8,8.2,64.4,63.0,C,Coaching,Good
+STU1550,9,Female,DAV Public School,Mathematics,5.5,90.0,77.3,7.0,57.2,76.8,B,Online Courses,Good
+STU1551,10,Male,Delhi Public School,English,3.5,89.4,73.8,8.0,62.4,49.4,D,Study Group,Average
+STU1552,11,Female,Delhi Public School,Social Studies,3.5,91.9,59.3,7.8,68.6,51.4,D,Online Courses,Average
+STU1553,9,Male,St. Xavier's,Social Studies,2.4,89.0,99.1,5.9,77.1,60.7,C,Study Group,Good
+STU1554,10,Male,Kendriya Vidyalaya,Science,4.4,66.9,79.6,8.2,71.5,64.8,C,Study Group,Average
+STU1555,9,Male,Modern School,English,0.3,97.1,83.7,6.4,64.5,55.5,D,Self Study,Good
+STU1556,12,Female,Kendriya Vidyalaya,Mathematics,2.4,80.0,64.8,5.5,66.0,63.3,C,Self Study,Poor
+STU1557,11,Male,St. Xavier's,Computer Science,2.9,79.7,97.2,7.2,60.9,60.1,C,Study Group,Good
+STU1558,12,Male,St. Xavier's,English,2.1,81.6,62.4,6.9,43.9,42.1,D,Self Study,Average
+STU1559,11,Female,Kendriya Vidyalaya,Computer Science,3.1,84.6,100.0,7.4,65.7,69.3,C,Online Courses,Good
+STU1560,9,Male,Modern School,Computer Science,3.0,74.9,65.9,5.1,67.1,55.5,D,Online Courses,Good
+STU1561,11,Male,Delhi Public School,Social Studies,1.7,82.5,75.4,6.9,80.1,61.2,C,Study Group,Good
+STU1562,10,Male,St. Xavier's,Social Studies,0.3,84.5,100.0,5.3,60.3,54.3,D,Study Group,Good
+STU1563,11,Male,DAV Public School,Mathematics,1.9,76.8,67.0,7.4,53.8,64.1,C,Study Group,Good
+STU1564,11,Male,DAV Public School,Mathematics,1.8,69.4,69.2,5.2,80.7,52.2,D,Coaching,Good
+STU1565,10,Male,St. Xavier's,Computer Science,2.1,94.4,80.6,7.8,75.0,65.0,C,Study Group,Good
+STU1566,11,Female,St. Xavier's,English,1.9,81.9,75.0,7.2,86.2,69.3,C,Study Group,Good
+STU1567,12,Female,St. Xavier's,Mathematics,4.6,71.0,82.8,6.8,49.7,51.4,D,Study Group,Good
+STU1568,9,Female,Modern School,Computer Science,2.7,77.2,71.7,7.8,81.9,57.0,D,Online Courses,Good
+STU1569,12,Female,St. Xavier's,Social Studies,4.0,81.6,80.8,6.1,67.4,59.9,D,Coaching,Good
+STU1570,12,Male,DAV Public School,English,2.3,81.7,88.5,6.8,66.3,61.3,C,Online Courses,Good
+STU1571,12,Male,Ryan International,Mathematics,2.8,98.1,79.5,7.2,65.1,61.8,C,Self Study,Average
+STU1572,12,Male,Modern School,Mathematics,1.5,82.8,70.1,5.5,68.5,48.7,D,Online Courses,Good
+STU1573,10,Male,Modern School,Computer Science,3.7,87.5,91.3,7.2,71.8,70.0,C,Online Courses,Average
+STU1574,11,Female,DAV Public School,Computer Science,3.9,65.4,92.1,6.8,70.6,59.4,D,Study Group,Average
+STU1575,12,Male,Ryan International,Computer Science,3.6,80.9,89.5,9.1,98.0,73.5,B,Study Group,Good
+STU1576,10,Male,Ryan International,Computer Science,2.1,77.5,73.3,7.2,53.4,51.7,D,Study Group,Average
+STU1577,10,Male,Kendriya Vidyalaya,Mathematics,2.8,82.2,94.4,6.4,56.1,54.7,D,Self Study,Average
+STU1578,9,Female,Delhi Public School,English,3.6,80.8,72.8,6.0,49.7,57.4,D,Self Study,Average
+STU1579,9,Female,DAV Public School,English,3.0,79.6,87.3,7.1,63.9,60.5,C,Online Courses,Average
+STU1580,9,Male,DAV Public School,English,2.8,90.2,82.4,7.0,78.3,74.3,B,Self Study,Average
+STU1581,10,Female,Kendriya Vidyalaya,Mathematics,0.7,83.5,85.3,6.7,59.4,63.4,C,Self Study,Good
+STU1582,11,Female,DAV Public School,Mathematics,2.4,80.8,55.4,5.2,59.7,48.7,D,Online Courses,Good
+STU1583,9,Female,Ryan International,English,4.4,88.9,100.0,9.9,80.3,68.3,C,Self Study,Good
+STU1584,9,Male,Ryan International,English,3.1,90.0,73.4,6.8,59.0,68.9,C,Online Courses,Good
+STU1585,10,Male,Kendriya Vidyalaya,Computer Science,2.9,74.1,93.5,7.0,66.7,55.8,D,Online Courses,Average
+STU1586,11,Female,St. Xavier's,English,4.7,83.3,74.8,8.9,76.1,57.4,D,Self Study,Average
+STU1587,10,Male,Ryan International,Computer Science,3.7,57.3,63.3,7.0,57.4,48.4,D,Coaching,Good
+STU1588,12,Male,Delhi Public School,English,2.0,85.3,80.7,8.3,74.1,55.9,D,Coaching,Good
+STU1589,9,Female,Kendriya Vidyalaya,English,2.2,82.1,86.3,7.3,78.6,48.6,D,Coaching,Good
+STU1590,10,Male,Delhi Public School,Science,0.4,81.6,100.0,7.8,69.9,67.0,C,Self Study,Poor
+STU1591,11,Female,Ryan International,Science,3.3,79.1,55.6,7.2,81.4,63.8,C,Self Study,Good
+STU1592,9,Male,Ryan International,Computer Science,1.4,91.9,68.4,7.8,61.3,62.2,C,Coaching,Good
+STU1593,9,Male,Ryan International,English,2.1,69.6,73.4,6.3,63.3,59.4,D,Self Study,Good
+STU1594,12,Male,DAV Public School,Science,1.0,73.4,76.5,8.4,79.6,63.8,C,Self Study,Poor
+STU1595,11,Male,St. Xavier's,Mathematics,2.4,72.3,78.4,5.7,81.6,66.7,C,Study Group,Average
+STU1596,9,Female,Delhi Public School,Computer Science,0.3,77.8,83.3,5.4,66.2,53.2,D,Self Study,Average
+STU1597,11,Male,Ryan International,Computer Science,1.7,85.0,59.9,7.3,75.1,51.8,D,Self Study,Average
+STU1598,11,Male,Modern School,Computer Science,2.5,67.1,82.2,7.5,76.7,51.5,D,Self Study,Good
+STU1599,12,Male,Modern School,Computer Science,3.4,84.4,82.5,6.6,65.0,59.1,D,Study Group,Average
+STU1600,11,Male,Kendriya Vidyalaya,Social Studies,4.9,65.7,86.5,8.7,68.1,60.5,C,Self Study,Good
+STU1601,9,Male,St. Xavier's,Social Studies,2.6,74.4,87.0,7.1,73.9,66.1,C,Study Group,Average
+STU1602,11,Female,DAV Public School,English,4.0,59.9,100.0,4.3,73.1,56.3,D,Study Group,Good
+STU1603,12,Female,St. Xavier's,English,2.1,71.9,53.1,7.3,67.8,54.4,D,Self Study,Average
+STU1604,10,Male,St. Xavier's,English,4.9,86.2,70.2,7.2,95.7,63.3,C,Study Group,Good
+STU1605,12,Female,Ryan International,English,3.8,72.4,83.7,7.3,81.4,57.3,D,Study Group,Good
+STU1606,12,Male,Delhi Public School,Science,1.6,87.6,75.8,8.8,69.4,70.8,B,Study Group,Average
+STU1607,11,Female,Ryan International,Computer Science,1.9,82.0,100.0,9.1,72.9,68.3,C,Study Group,Average
+STU1608,12,Male,Delhi Public School,Science,3.7,87.2,59.5,8.4,67.9,50.6,D,Online Courses,Average
+STU1609,9,Female,Delhi Public School,Social Studies,1.4,77.2,82.0,8.4,73.7,56.1,D,Self Study,Good
+STU1610,11,Male,St. Xavier's,English,3.9,77.8,90.1,5.9,59.4,68.6,C,Online Courses,Poor
+STU1611,9,Male,Delhi Public School,Computer Science,3.1,91.3,94.2,9.0,56.0,66.5,C,Self Study,Good
+STU1612,9,Female,Modern School,Computer Science,2.7,78.0,75.7,8.2,71.1,54.0,D,Coaching,Poor
+STU1613,9,Male,Modern School,English,3.2,91.8,93.8,8.0,79.4,66.9,C,Study Group,Good
+STU1614,9,Female,Modern School,Computer Science,3.5,87.6,43.3,7.7,76.3,61.1,C,Coaching,Average
+STU1615,10,Female,St. Xavier's,Social Studies,2.9,91.3,100.0,6.5,75.8,55.0,D,Online Courses,Good
+STU1616,9,Male,Modern School,Mathematics,4.7,93.7,73.5,5.9,86.3,74.9,B,Coaching,Good
+STU1617,12,Male,Ryan International,Computer Science,3.4,84.2,64.0,8.0,69.1,58.0,D,Coaching,Good
+STU1618,11,Female,St. Xavier's,Science,1.7,90.6,66.1,8.4,75.0,47.2,D,Coaching,Good
+STU1619,12,Female,DAV Public School,English,4.0,89.5,60.3,6.9,60.3,51.8,D,Self Study,Average
+STU1620,9,Male,Modern School,English,0.6,97.4,84.3,5.4,59.6,53.2,D,Study Group,Average
+STU1621,11,Female,Ryan International,English,2.9,83.7,88.4,7.0,56.9,62.5,C,Study Group,Good
+STU1622,11,Male,Kendriya Vidyalaya,Science,0.4,73.1,53.3,7.3,67.7,57.0,D,Online Courses,Good
+STU1623,10,Female,St. Xavier's,Mathematics,2.9,89.9,86.6,6.8,78.7,67.6,C,Online Courses,Good
+STU1624,10,Male,Ryan International,Science,2.6,92.9,73.5,6.0,44.3,57.9,D,Study Group,Average
+STU1625,9,Female,St. Xavier's,Computer Science,0.3,91.2,68.3,7.8,72.7,60.9,C,Online Courses,Average
+STU1626,9,Female,Ryan International,Science,4.4,76.2,80.3,6.2,79.9,60.2,C,Coaching,Good
+STU1627,12,Male,Ryan International,Computer Science,2.0,75.3,71.2,5.9,71.9,59.2,D,Study Group,Good
+STU1628,12,Male,DAV Public School,Social Studies,2.2,100.0,80.2,7.3,39.1,44.0,D,Self Study,Good
+STU1629,10,Female,St. Xavier's,Social Studies,4.1,87.5,73.5,7.4,62.3,65.4,C,Self Study,Good
+STU1630,9,Male,Ryan International,Mathematics,4.4,79.9,93.9,6.3,69.9,83.1,A,Self Study,Good
+STU1631,9,Male,Kendriya Vidyalaya,Computer Science,2.5,71.6,100.0,7.2,81.7,67.4,C,Study Group,Average
+STU1632,12,Female,Kendriya Vidyalaya,English,4.3,81.3,61.1,8.3,72.0,58.5,D,Online Courses,Good
+STU1633,9,Female,Delhi Public School,Computer Science,3.6,95.6,75.9,7.3,66.2,55.6,D,Self Study,Good
+STU1634,9,Female,St. Xavier's,Science,2.9,81.5,90.7,6.1,81.0,60.3,C,Study Group,Average
+STU1635,11,Male,Delhi Public School,Mathematics,2.9,99.5,66.7,7.5,58.9,58.2,D,Self Study,Good
+STU1636,10,Male,Delhi Public School,Social Studies,2.7,91.0,100.0,6.0,80.1,70.8,B,Coaching,Good
+STU1637,9,Female,DAV Public School,Computer Science,4.1,95.2,58.6,7.4,73.8,74.1,B,Coaching,Good
+STU1638,10,Male,Delhi Public School,Computer Science,4.0,85.5,92.9,5.8,62.6,68.2,C,Self Study,Average
+STU1639,9,Male,Kendriya Vidyalaya,Computer Science,5.2,62.9,100.0,6.6,85.5,67.3,C,Online Courses,Good
+STU1640,10,Female,Kendriya Vidyalaya,English,1.9,76.3,83.7,7.7,68.3,45.9,D,Study Group,Average
+STU1641,11,Female,St. Xavier's,Science,0.4,87.5,94.2,6.2,88.6,62.2,C,Study Group,Good
+STU1642,9,Female,Delhi Public School,English,2.9,94.4,63.0,7.5,66.6,45.2,D,Study Group,Good
+STU1643,12,Female,Ryan International,Social Studies,1.5,91.6,76.7,6.4,65.7,70.0,B,Self Study,Poor
+STU1644,12,Female,Kendriya Vidyalaya,English,2.2,85.5,96.7,6.5,54.5,60.6,C,Coaching,Good
+STU1645,9,Male,Delhi Public School,Computer Science,0.3,88.8,95.6,6.7,54.9,53.2,D,Study Group,Good
+STU1646,9,Female,Ryan International,Mathematics,0.3,77.0,100.0,4.3,60.8,58.6,D,Self Study,Good
+STU1647,9,Male,St. Xavier's,Science,2.1,86.0,72.7,5.6,51.0,43.8,D,Online Courses,Average
+STU1648,11,Female,Delhi Public School,English,1.7,76.7,72.0,7.0,74.7,58.4,D,Self Study,Average
+STU1649,10,Male,Kendriya Vidyalaya,English,3.4,97.7,72.4,8.4,55.8,65.1,C,Online Courses,Good
+STU1650,9,Female,DAV Public School,Mathematics,0.3,81.9,63.8,9.6,93.4,59.6,D,Self Study,Good
+STU1651,11,Female,Ryan International,English,1.6,92.1,80.7,7.7,57.2,49.8,D,Online Courses,Average
+STU1652,10,Female,Modern School,Mathematics,3.4,75.5,82.2,5.2,53.3,56.6,D,Online Courses,Good
+STU1653,11,Female,Ryan International,Science,2.2,85.2,75.6,9.8,66.8,66.8,C,Coaching,Average
+STU1654,9,Male,Ryan International,Computer Science,3.5,84.6,73.0,5.6,62.2,54.2,D,Study Group,Good
+STU1655,11,Female,Modern School,Social Studies,0.8,91.9,63.0,6.6,73.7,50.6,D,Self Study,Good
+STU1656,12,Male,Ryan International,English,2.4,98.0,62.7,6.6,80.2,57.5,D,Coaching,Good
+STU1657,9,Female,Delhi Public School,Computer Science,3.0,80.2,64.0,7.3,51.8,49.7,D,Study Group,Poor
+STU1658,11,Male,Ryan International,Social Studies,2.2,90.9,66.7,7.2,67.7,68.5,C,Coaching,Average
+STU1659,10,Female,DAV Public School,Science,1.8,89.3,73.5,8.3,53.7,42.9,D,Coaching,Average
+STU1660,9,Female,Delhi Public School,Social Studies,4.4,91.8,81.0,8.7,57.4,64.4,C,Self Study,Good
+STU1661,9,Female,DAV Public School,Science,0.3,82.4,79.8,6.9,55.4,51.5,D,Coaching,Good
+STU1662,12,Female,Delhi Public School,Computer Science,2.6,75.2,77.7,4.6,52.5,47.6,D,Coaching,Good
+STU1663,12,Male,Delhi Public School,Social Studies,4.3,79.0,99.3,6.0,59.4,69.3,C,Self Study,Good
+STU1664,11,Female,St. Xavier's,English,3.6,77.8,81.3,7.1,69.8,58.7,D,Self Study,Poor
+STU1665,10,Female,Modern School,Computer Science,3.4,58.9,100.0,5.0,61.4,47.1,D,Self Study,Average
+STU1666,9,Female,St. Xavier's,Computer Science,2.1,78.8,94.4,6.0,70.3,62.0,C,Online Courses,Average
+STU1667,10,Female,Kendriya Vidyalaya,Mathematics,2.6,74.6,44.9,7.1,61.4,45.2,D,Study Group,Good
+STU1668,9,Female,DAV Public School,Social Studies,2.6,87.9,89.9,7.6,66.1,59.1,D,Coaching,Good
+STU1669,12,Male,Modern School,English,0.4,98.5,94.1,6.7,84.2,57.7,D,Study Group,Good
+STU1670,12,Female,Ryan International,Mathematics,2.0,75.7,74.4,6.9,86.7,68.1,C,Coaching,Good
+STU1671,12,Male,DAV Public School,English,2.1,80.1,85.8,8.0,57.1,48.7,D,Coaching,Good
+STU1672,11,Female,Kendriya Vidyalaya,Mathematics,5.5,100.0,82.3,8.3,67.2,76.7,B,Study Group,Poor
+STU1673,10,Male,St. Xavier's,Social Studies,3.4,64.7,78.0,8.1,53.4,41.3,D,Online Courses,Good
+STU1674,10,Female,St. Xavier's,Computer Science,2.2,80.4,82.2,6.7,59.1,55.5,D,Study Group,Good
+STU1675,12,Male,St. Xavier's,Mathematics,1.0,87.1,100.0,5.6,60.9,62.1,C,Self Study,Average
+STU1676,10,Female,Modern School,English,3.8,85.3,71.0,5.8,75.4,69.0,C,Study Group,Good
+STU1677,9,Female,Ryan International,Computer Science,3.4,86.5,83.6,4.7,51.5,64.9,C,Coaching,Average
+STU1678,10,Female,Delhi Public School,Science,3.1,77.8,65.6,5.4,56.3,46.9,D,Coaching,Good
+STU1679,10,Female,St. Xavier's,English,2.1,87.6,74.6,9.2,65.2,63.9,C,Online Courses,Average
+STU1680,10,Female,Kendriya Vidyalaya,Computer Science,3.7,78.1,55.3,6.6,69.2,56.6,D,Coaching,Poor
+STU1681,10,Male,DAV Public School,English,0.7,69.7,92.1,6.6,56.8,45.3,D,Study Group,Good
+STU1682,11,Male,Kendriya Vidyalaya,Mathematics,4.7,76.4,100.0,7.2,74.7,59.6,D,Self Study,Average
+STU1683,9,Female,DAV Public School,Computer Science,3.8,82.0,72.2,7.7,63.7,53.5,D,Study Group,Average
+STU1684,12,Male,DAV Public School,Social Studies,1.7,80.1,73.5,5.0,60.8,44.0,D,Self Study,Good
+STU1685,12,Male,Ryan International,Computer Science,1.9,76.2,84.3,7.1,72.4,62.3,C,Study Group,Good
+STU1686,11,Female,Modern School,Science,0.3,67.4,81.4,6.8,43.8,39.9,D,Self Study,Average
+STU1687,12,Female,Kendriya Vidyalaya,Computer Science,2.4,82.3,67.5,9.5,83.3,63.6,C,Study Group,Average
+STU1688,10,Female,DAV Public School,Computer Science,3.9,76.8,86.6,8.0,91.2,65.2,C,Online Courses,Average
+STU1689,12,Male,Ryan International,Computer Science,2.9,78.1,67.6,4.4,78.1,45.3,D,Online Courses,Good
+STU1690,9,Female,St. Xavier's,Computer Science,2.2,77.8,69.4,8.2,89.9,57.0,D,Study Group,Good
+STU1691,12,Female,St. Xavier's,Mathematics,3.8,95.2,76.5,5.6,85.8,75.0,B,Coaching,Good
+STU1692,10,Female,Ryan International,English,2.9,87.3,80.2,7.8,88.3,65.8,C,Online Courses,Average
+STU1693,10,Male,Kendriya Vidyalaya,Computer Science,4.1,92.8,55.7,7.6,55.0,43.8,D,Online Courses,Good
+STU1694,9,Female,Delhi Public School,Mathematics,3.7,79.8,96.4,4.6,48.2,52.2,D,Study Group,Good
+STU1695,10,Female,DAV Public School,English,4.4,100.0,69.4,7.7,79.0,67.9,C,Coaching,Good
+STU1696,12,Male,DAV Public School,Mathematics,1.3,93.5,95.0,5.8,70.7,69.5,C,Coaching,Good
+STU1697,12,Female,Delhi Public School,Mathematics,1.2,98.9,51.1,7.4,80.8,62.4,C,Study Group,Poor
+STU1698,12,Female,St. Xavier's,English,3.1,87.3,83.7,8.1,71.1,58.1,D,Coaching,Average
+STU1699,12,Male,Kendriya Vidyalaya,English,0.3,89.1,78.6,6.8,48.5,50.2,D,Online Courses,Good
+STU1700,11,Female,St. Xavier's,Social Studies,3.1,86.5,83.2,5.6,69.0,66.7,C,Coaching,Good
+STU1701,9,Female,Kendriya Vidyalaya,Mathematics,2.7,84.0,64.3,5.2,65.9,59.3,D,Online Courses,Good
+STU1702,11,Female,Modern School,Computer Science,4.3,79.7,90.8,7.4,62.5,75.0,B,Online Courses,Good
+STU1703,11,Female,Ryan International,English,2.7,88.4,69.5,7.9,69.6,61.1,C,Study Group,Good
+STU1704,9,Male,Ryan International,Mathematics,0.7,80.5,96.7,8.7,71.0,53.2,D,Study Group,Poor
+STU1705,9,Female,St. Xavier's,Science,2.7,84.7,63.6,6.7,81.1,62.6,C,Online Courses,Good
+STU1706,12,Male,Delhi Public School,Computer Science,4.3,85.7,75.3,6.5,66.4,61.4,C,Study Group,Good
+STU1707,11,Male,Ryan International,Social Studies,0.3,99.9,84.6,7.9,59.0,69.2,C,Coaching,Good
+STU1708,10,Male,Kendriya Vidyalaya,Computer Science,3.7,80.5,66.9,7.1,72.3,60.3,C,Self Study,Average
+STU1709,9,Male,Kendriya Vidyalaya,Mathematics,4.3,85.9,73.0,7.0,95.4,73.1,B,Coaching,Good
+STU1710,11,Female,Modern School,Social Studies,2.8,83.8,76.1,8.5,67.8,56.7,D,Self Study,Poor
+STU1711,10,Female,Modern School,English,0.3,94.3,78.2,7.5,64.4,50.3,D,Online Courses,Average
+STU1712,9,Female,Modern School,Computer Science,1.3,88.4,51.0,6.3,44.9,47.3,D,Coaching,Average
+STU1713,10,Male,Ryan International,Computer Science,5.1,88.6,78.5,7.1,74.9,63.6,C,Self Study,Average
+STU1714,11,Male,DAV Public School,Computer Science,2.5,77.2,80.9,7.4,59.8,54.5,D,Study Group,Average
+STU1715,10,Female,Delhi Public School,Computer Science,1.8,87.8,84.1,8.3,55.6,45.1,D,Online Courses,Good
+STU1716,12,Female,Delhi Public School,English,1.9,81.7,74.5,6.7,69.1,54.3,D,Online Courses,Poor
+STU1717,10,Female,Delhi Public School,Social Studies,3.7,80.2,76.3,7.2,72.2,46.6,D,Online Courses,Average
+STU1718,10,Female,DAV Public School,Mathematics,4.0,85.0,84.7,6.5,69.9,67.7,C,Study Group,Good
+STU1719,11,Male,St. Xavier's,English,3.4,92.7,53.6,5.8,55.5,50.2,D,Self Study,Good
+STU1720,12,Male,St. Xavier's,Mathematics,4.1,91.7,49.7,7.1,86.8,67.1,C,Coaching,Good
+STU1721,9,Female,Modern School,Science,0.8,80.4,60.7,8.6,38.9,56.9,D,Self Study,Average
+STU1722,11,Male,Ryan International,English,5.8,92.7,66.3,7.8,74.1,66.0,C,Coaching,Average
+STU1723,12,Male,Modern School,English,2.4,83.3,51.7,5.3,60.5,45.3,D,Self Study,Good
+STU1724,11,Male,Kendriya Vidyalaya,Computer Science,0.3,75.8,57.3,6.3,68.9,66.0,C,Online Courses,Good
+STU1725,9,Female,Modern School,Computer Science,2.7,62.3,76.4,7.0,70.4,50.3,D,Online Courses,Good
+STU1726,12,Male,Ryan International,Social Studies,2.5,79.3,78.5,6.5,69.5,60.2,C,Coaching,Average
+STU1727,11,Female,Delhi Public School,Science,3.9,71.3,88.6,6.7,59.3,59.6,D,Self Study,Good
+STU1728,12,Male,Delhi Public School,Social Studies,0.9,92.5,68.0,6.4,60.0,47.9,D,Online Courses,Good
+STU1729,10,Male,Modern School,Social Studies,1.0,84.4,83.8,7.5,57.0,47.9,D,Self Study,Good
+STU1730,10,Male,Kendriya Vidyalaya,Social Studies,4.2,82.2,77.3,7.4,67.3,60.4,C,Study Group,Good
+STU1731,10,Male,St. Xavier's,Mathematics,5.0,72.0,89.4,6.9,66.8,61.1,C,Study Group,Good
+STU1732,9,Male,DAV Public School,Social Studies,3.4,72.1,70.1,6.6,69.4,54.4,D,Self Study,Average
+STU1733,10,Male,Kendriya Vidyalaya,Social Studies,4.7,77.5,97.6,6.7,63.5,63.8,C,Self Study,Good
+STU1734,12,Male,Modern School,Social Studies,0.5,73.5,61.2,5.5,70.9,56.6,D,Coaching,Average
+STU1735,10,Male,St. Xavier's,English,3.4,81.0,76.4,6.0,59.3,65.2,C,Coaching,Good
+STU1736,11,Female,Kendriya Vidyalaya,Social Studies,3.4,87.3,83.1,6.9,87.4,57.7,D,Coaching,Average
+STU1737,9,Female,Delhi Public School,Social Studies,3.0,70.4,73.0,8.3,72.1,54.7,D,Study Group,Average
+STU1738,12,Female,Kendriya Vidyalaya,Mathematics,2.0,84.5,94.6,6.7,56.8,38.2,D,Online Courses,Poor
+STU1739,10,Male,Ryan International,Social Studies,5.0,100.0,100.0,7.5,79.6,65.5,C,Coaching,Good
+STU1740,12,Female,St. Xavier's,Science,4.8,74.9,98.3,9.2,75.5,70.9,B,Study Group,Good
+STU1741,9,Female,Ryan International,Social Studies,3.4,73.0,86.1,4.8,62.1,60.3,C,Self Study,Good
+STU1742,11,Female,DAV Public School,Science,3.1,97.3,68.0,6.0,73.3,71.1,B,Coaching,Good
+STU1743,10,Female,Delhi Public School,Computer Science,2.1,86.6,79.4,8.4,94.1,70.0,C,Online Courses,Good
+STU1744,11,Male,Delhi Public School,English,2.2,98.4,69.6,6.6,73.6,57.4,D,Study Group,Average
+STU1745,10,Female,Modern School,English,2.1,57.7,83.5,5.6,68.7,59.5,D,Self Study,Good
+STU1746,12,Male,Delhi Public School,Computer Science,3.0,72.3,90.4,7.6,64.1,61.8,C,Online Courses,Good
+STU1747,12,Female,Ryan International,English,1.6,98.3,78.2,6.1,60.0,72.7,B,Coaching,Average
+STU1748,9,Male,DAV Public School,Social Studies,2.7,62.6,93.0,6.1,96.2,67.9,C,Study Group,Good
+STU1749,11,Male,St. Xavier's,Mathematics,3.0,70.2,59.6,7.9,81.8,68.7,C,Study Group,Good
+STU1750,10,Male,Kendriya Vidyalaya,Computer Science,4.1,72.8,84.1,5.9,63.1,74.2,B,Study Group,Good
+STU1751,12,Male,Ryan International,Social Studies,2.8,91.3,66.2,8.1,64.6,63.1,C,Self Study,Good
+STU1752,12,Female,Modern School,Science,4.0,70.9,66.5,9.0,74.4,50.9,D,Self Study,Good
+STU1753,11,Male,DAV Public School,Social Studies,4.1,89.1,59.2,6.4,60.9,58.8,D,Self Study,Good
+STU1754,10,Male,Ryan International,English,4.2,71.8,75.3,8.1,72.1,64.2,C,Online Courses,Good
+STU1755,10,Female,St. Xavier's,Social Studies,0.9,80.7,88.1,7.4,81.3,67.7,C,Study Group,Good
+STU1756,12,Female,Kendriya Vidyalaya,Computer Science,0.3,76.4,100.0,5.8,90.1,74.9,B,Self Study,Average
+STU1757,11,Female,Delhi Public School,Computer Science,2.9,80.0,84.5,6.3,64.5,70.4,B,Online Courses,Average
+STU1758,9,Female,Ryan International,English,3.6,73.8,66.4,7.3,73.6,63.1,C,Coaching,Average
+STU1759,12,Female,Kendriya Vidyalaya,Social Studies,2.1,80.4,96.8,6.2,74.1,72.1,B,Online Courses,Good
+STU1760,9,Male,Modern School,Mathematics,2.4,85.1,65.7,7.1,62.9,50.6,D,Self Study,Average
+STU1761,10,Male,St. Xavier's,Social Studies,3.5,92.8,60.6,5.4,78.1,63.5,C,Study Group,Good
+STU1762,11,Female,Modern School,Science,0.4,85.7,57.8,6.4,68.3,46.9,D,Online Courses,Good
+STU1763,12,Male,DAV Public School,Computer Science,4.6,73.8,71.2,7.0,64.2,57.5,D,Study Group,Good
+STU1764,11,Female,DAV Public School,Mathematics,1.0,89.8,69.2,10.0,73.8,55.1,D,Online Courses,Good
+STU1765,11,Male,St. Xavier's,Science,4.4,69.4,84.5,6.2,56.8,65.2,C,Self Study,Average
+STU1766,10,Male,Ryan International,Social Studies,3.8,84.7,94.4,7.4,94.4,67.0,C,Self Study,Good
+STU1767,12,Female,Kendriya Vidyalaya,Computer Science,7.0,81.0,93.7,8.6,76.0,78.2,B,Coaching,Good
+STU1768,10,Male,St. Xavier's,Computer Science,0.7,79.4,70.4,6.4,50.5,59.1,D,Study Group,Average
+STU1769,9,Male,DAV Public School,Mathematics,0.3,93.2,73.0,6.8,73.1,52.3,D,Study Group,Good
+STU1770,11,Female,Modern School,Social Studies,2.4,78.4,75.6,7.5,82.4,69.1,C,Online Courses,Poor
+STU1771,11,Female,Modern School,Computer Science,2.1,64.4,95.2,7.4,71.5,62.3,C,Self Study,Average
+STU1772,10,Male,Modern School,Mathematics,2.4,74.0,100.0,7.4,90.2,76.8,B,Self Study,Good
+STU1773,12,Male,St. Xavier's,Computer Science,0.4,71.3,71.9,5.4,57.5,42.8,D,Self Study,Good
+STU1774,12,Female,Delhi Public School,Computer Science,2.0,75.0,64.0,8.1,57.6,43.9,D,Study Group,Average
+STU1775,10,Female,Modern School,Social Studies,1.0,73.5,91.5,6.3,73.8,68.8,C,Coaching,Average
+STU1776,9,Male,Delhi Public School,English,2.7,85.7,51.7,6.9,79.5,52.9,D,Study Group,Good
+STU1777,10,Male,DAV Public School,Computer Science,2.3,72.5,99.1,5.7,80.2,76.2,B,Coaching,Average
+STU1778,9,Female,Ryan International,English,2.6,90.8,89.0,8.3,55.2,49.9,D,Self Study,Good
+STU1779,10,Male,Ryan International,Computer Science,4.9,75.7,56.7,5.7,57.0,51.6,D,Self Study,Good
+STU1780,12,Male,Modern School,Science,4.1,74.3,66.6,6.4,71.6,60.2,C,Self Study,Average
+STU1781,10,Male,DAV Public School,Computer Science,5.5,95.5,77.2,6.4,50.0,72.5,B,Study Group,Average
+STU1782,12,Female,St. Xavier's,Mathematics,2.3,79.0,82.4,7.4,66.0,55.1,D,Self Study,Average
+STU1783,12,Male,Ryan International,Mathematics,0.3,90.4,66.0,6.8,68.1,59.6,D,Study Group,Good
+STU1784,12,Female,Kendriya Vidyalaya,English,1.0,82.1,71.5,7.2,73.6,48.2,D,Online Courses,Good
+STU1785,10,Male,Modern School,English,1.9,72.8,74.5,6.2,59.2,49.0,D,Study Group,Good
+STU1786,11,Female,DAV Public School,Social Studies,1.0,87.3,89.2,7.0,75.0,57.6,D,Self Study,Average
+STU1787,11,Female,Delhi Public School,Computer Science,3.6,88.7,87.9,7.0,78.8,61.0,C,Online Courses,Poor
+STU1788,10,Male,Delhi Public School,Social Studies,3.0,84.5,79.9,8.6,69.9,64.3,C,Coaching,Good
+STU1789,10,Female,DAV Public School,English,3.2,90.6,78.0,6.2,79.8,80.1,A,Online Courses,Good
+STU1790,9,Male,DAV Public School,Mathematics,3.6,85.3,76.1,6.9,77.1,54.2,D,Coaching,Good
+STU1791,12,Male,Modern School,Science,1.4,77.6,56.7,6.4,82.3,61.8,C,Coaching,Average
+STU1792,10,Female,Delhi Public School,Computer Science,1.0,95.8,51.1,6.2,59.3,61.1,C,Coaching,Good
+STU1793,9,Female,DAV Public School,Mathematics,3.1,80.2,86.0,7.4,63.2,68.0,C,Online Courses,Good
+STU1794,10,Female,Delhi Public School,English,3.0,100.0,59.6,5.7,58.4,54.4,D,Study Group,Good
+STU1795,12,Female,Delhi Public School,Mathematics,2.8,76.5,71.0,7.5,70.4,66.9,C,Online Courses,Average
+STU1796,10,Female,Modern School,Computer Science,2.4,92.9,73.8,8.9,66.8,65.0,C,Coaching,Good
+STU1797,10,Female,Modern School,Science,2.5,85.0,89.4,6.5,76.5,56.5,D,Study Group,Good
+STU1798,10,Female,Kendriya Vidyalaya,Science,2.7,89.6,60.4,7.2,80.9,68.2,C,Study Group,Good
+STU1799,12,Male,Delhi Public School,Mathematics,2.1,80.5,80.7,7.7,88.6,50.8,D,Study Group,Good
+STU1800,10,Male,DAV Public School,Social Studies,7.4,82.8,85.7,4.6,93.9,71.2,B,Online Courses,Average
+STU1801,10,Male,DAV Public School,Science,2.7,69.8,91.3,7.9,73.0,65.3,C,Self Study,Good
+STU1802,12,Female,St. Xavier's,Science,4.3,76.0,58.1,7.5,85.6,72.9,B,Online Courses,Good
+STU1803,12,Female,DAV Public School,Computer Science,1.7,73.0,53.0,5.6,51.1,45.5,D,Coaching,Good
+STU1804,11,Male,Kendriya Vidyalaya,Mathematics,3.4,94.6,90.3,6.2,78.3,63.9,C,Self Study,Average
+STU1805,11,Female,Ryan International,Mathematics,0.9,72.0,52.8,6.4,66.0,53.6,D,Self Study,Good
+STU1806,12,Female,DAV Public School,Social Studies,3.1,92.4,81.1,5.8,76.0,65.6,C,Study Group,Poor
+STU1807,10,Female,Modern School,Social Studies,0.7,68.4,100.0,6.0,70.0,53.3,D,Online Courses,Good
+STU1808,12,Female,DAV Public School,Social Studies,2.2,74.5,80.9,7.1,67.6,64.7,C,Self Study,Average
+STU1809,9,Male,Modern School,Science,3.5,82.1,59.7,6.0,68.1,55.5,D,Coaching,Poor
+STU1810,12,Male,Kendriya Vidyalaya,Computer Science,3.2,96.3,59.9,6.1,72.5,61.7,C,Study Group,Good
+STU1811,9,Male,DAV Public School,Social Studies,2.8,79.1,81.5,8.0,78.7,59.2,D,Coaching,Poor
+STU1812,10,Male,St. Xavier's,Mathematics,3.9,61.4,89.2,5.8,78.4,67.9,C,Online Courses,Good
+STU1813,11,Female,Kendriya Vidyalaya,Computer Science,3.6,96.8,73.6,7.9,56.2,53.4,D,Coaching,Good
+STU1814,9,Female,St. Xavier's,Science,0.3,81.1,86.8,6.6,69.9,49.4,D,Online Courses,Average
+STU1815,9,Female,St. Xavier's,Mathematics,3.3,63.8,86.1,5.1,62.9,61.7,C,Self Study,Poor
+STU1816,9,Female,DAV Public School,Computer Science,1.7,62.2,75.1,5.1,78.7,54.7,D,Study Group,Average
+STU1817,10,Female,Ryan International,Social Studies,3.1,74.9,100.0,7.7,70.3,64.0,C,Self Study,Good
+STU1818,9,Male,Delhi Public School,English,5.9,85.0,67.6,7.9,86.3,68.2,C,Coaching,Good
+STU1819,11,Female,Ryan International,Social Studies,4.9,78.7,100.0,6.0,64.9,62.3,C,Coaching,Average
+STU1820,9,Female,DAV Public School,Mathematics,3.8,63.6,81.2,7.7,78.4,73.1,B,Coaching,Good
+STU1821,11,Male,St. Xavier's,Mathematics,3.5,99.7,69.4,7.9,77.6,64.9,C,Coaching,Good
+STU1822,10,Male,Ryan International,Computer Science,2.5,89.2,85.5,7.6,71.1,67.0,C,Study Group,Good
+STU1823,9,Male,Ryan International,English,2.2,87.7,90.4,6.4,33.8,62.6,C,Online Courses,Good
+STU1824,12,Male,Delhi Public School,Science,4.6,78.8,93.4,7.6,65.0,73.8,B,Self Study,Good
+STU1825,9,Female,Modern School,Mathematics,0.6,90.3,80.8,8.1,70.2,48.7,D,Self Study,Average
+STU1826,12,Female,DAV Public School,Social Studies,4.1,76.1,71.0,8.8,54.7,43.6,D,Self Study,Poor
+STU1827,12,Female,Ryan International,Mathematics,3.1,92.5,79.2,8.7,91.3,64.0,C,Study Group,Good
+STU1828,11,Male,Kendriya Vidyalaya,Mathematics,4.9,82.5,49.7,8.9,75.4,69.3,C,Study Group,Good
+STU1829,11,Female,Ryan International,Computer Science,5.1,91.2,69.7,7.4,55.3,71.7,B,Coaching,Good
+STU1830,9,Male,Modern School,English,2.0,77.6,58.8,7.5,56.2,63.1,C,Coaching,Good
+STU1831,9,Female,Ryan International,Mathematics,1.8,87.5,82.5,5.9,30.0,43.8,D,Self Study,Good
+STU1832,10,Male,St. Xavier's,English,3.4,91.6,90.0,6.2,91.6,68.1,C,Coaching,Poor
+STU1833,10,Male,DAV Public School,Science,2.3,86.8,73.4,6.5,49.4,45.1,D,Self Study,Good
+STU1834,12,Female,Delhi Public School,English,2.8,66.6,89.3,8.5,79.9,60.1,C,Online Courses,Average
+STU1835,9,Female,Ryan International,Computer Science,2.6,91.9,76.4,7.3,73.7,70.8,B,Coaching,Good
+STU1836,11,Male,DAV Public School,Social Studies,2.2,83.0,99.8,6.8,90.2,70.9,B,Study Group,Average
+STU1837,12,Female,Kendriya Vidyalaya,Computer Science,1.6,73.6,83.2,5.9,76.3,46.9,D,Self Study,Good
+STU1838,11,Female,Ryan International,Computer Science,0.3,76.6,61.8,6.9,72.7,53.9,D,Online Courses,Good
+STU1839,12,Male,DAV Public School,Mathematics,5.0,84.1,90.4,5.7,60.8,74.8,B,Self Study,Good
+STU1840,12,Male,Kendriya Vidyalaya,Science,2.9,71.9,64.9,8.9,64.7,57.9,D,Self Study,Average
+STU1841,12,Female,Modern School,Mathematics,3.0,97.8,53.4,6.9,55.9,59.3,D,Online Courses,Good
+STU1842,9,Male,DAV Public School,Social Studies,3.4,85.7,80.7,7.2,76.0,61.9,C,Self Study,Average
+STU1843,11,Male,Ryan International,Science,3.4,81.4,65.5,8.4,98.0,57.6,D,Online Courses,Average
+STU1844,10,Male,Modern School,Computer Science,2.5,74.4,69.0,6.6,53.1,62.9,C,Study Group,Good
+STU1845,9,Female,St. Xavier's,Mathematics,2.7,97.7,84.9,5.9,53.9,67.1,C,Coaching,Good
+STU1846,11,Male,Kendriya Vidyalaya,Computer Science,5.2,72.7,87.1,9.2,88.7,76.7,B,Online Courses,Poor
+STU1847,11,Male,Delhi Public School,Science,1.3,60.5,84.4,6.5,46.1,51.7,D,Coaching,Good
+STU1848,12,Female,Modern School,Social Studies,3.6,73.3,92.4,6.8,55.3,56.3,D,Study Group,Good
+STU1849,11,Female,St. Xavier's,Social Studies,2.2,81.6,100.0,8.3,67.8,64.2,C,Study Group,Good
+STU1850,10,Female,Modern School,Social Studies,0.8,100.0,44.8,6.8,55.8,59.9,D,Self Study,Good
+STU1851,10,Male,DAV Public School,Mathematics,2.2,82.0,100.0,4.8,72.2,57.5,D,Online Courses,Average
+STU1852,9,Male,Delhi Public School,Mathematics,3.5,79.8,100.0,5.5,88.3,74.3,B,Coaching,Average
+STU1853,12,Male,DAV Public School,English,3.6,84.2,95.8,5.4,65.3,62.8,C,Coaching,Good
+STU1854,9,Male,Modern School,Science,2.6,90.4,86.2,7.3,72.6,65.4,C,Online Courses,Good
+STU1855,9,Male,Ryan International,English,1.9,81.8,75.3,7.5,81.9,51.2,D,Coaching,Good
+STU1856,9,Female,Kendriya Vidyalaya,Science,2.6,81.2,100.0,8.7,65.6,60.3,C,Coaching,Good
+STU1857,12,Female,St. Xavier's,Social Studies,2.9,95.7,100.0,6.6,76.6,63.8,C,Coaching,Average
+STU1858,9,Male,Ryan International,Social Studies,1.1,89.1,100.0,7.9,52.7,56.5,D,Online Courses,Good
+STU1859,12,Male,Modern School,English,2.2,83.0,54.7,6.7,86.4,64.9,C,Online Courses,Average
+STU1860,9,Female,DAV Public School,Computer Science,0.3,88.0,61.6,4.8,72.1,41.4,D,Coaching,Good
+STU1861,11,Male,St. Xavier's,Computer Science,3.6,80.7,92.0,7.1,78.4,73.4,B,Online Courses,Poor
+STU1862,11,Male,Kendriya Vidyalaya,Social Studies,1.8,89.7,71.3,7.4,73.2,52.9,D,Coaching,Good
+STU1863,9,Female,St. Xavier's,Social Studies,3.1,83.6,71.2,7.0,59.0,55.2,D,Online Courses,Average
+STU1864,9,Male,Ryan International,Mathematics,1.8,92.6,97.9,5.7,72.8,65.9,C,Self Study,Good
+STU1865,12,Female,Kendriya Vidyalaya,Computer Science,4.4,92.0,68.8,5.4,73.2,67.5,C,Coaching,Good
+STU1866,9,Female,Kendriya Vidyalaya,English,3.4,88.4,70.3,7.5,65.7,66.0,C,Coaching,Poor
+STU1867,10,Female,Ryan International,English,2.8,79.3,81.3,7.9,63.0,60.3,C,Coaching,Average
+STU1868,10,Male,St. Xavier's,Mathematics,5.0,80.9,83.4,7.7,52.0,58.1,D,Online Courses,Good
+STU1869,9,Male,Ryan International,Mathematics,2.8,78.5,83.6,6.9,74.8,73.8,B,Coaching,Poor
+STU1870,10,Male,St. Xavier's,Social Studies,3.4,89.7,78.1,7.9,62.3,57.2,D,Study Group,Good
+STU1871,10,Male,Ryan International,Science,0.3,65.7,69.0,8.3,75.9,56.9,D,Coaching,Good
+STU1872,10,Male,St. Xavier's,English,1.6,89.1,64.9,7.7,73.0,55.7,D,Coaching,Poor
+STU1873,10,Male,DAV Public School,English,4.3,91.3,91.3,8.3,55.6,69.6,C,Study Group,Good
+STU1874,10,Female,Ryan International,English,3.3,88.4,86.6,6.6,60.0,63.1,C,Self Study,Good
+STU1875,10,Female,Ryan International,Social Studies,0.3,65.8,77.7,6.2,65.6,47.2,D,Coaching,Good
+STU1876,12,Male,DAV Public School,Computer Science,0.8,80.4,60.8,6.9,69.1,48.9,D,Study Group,Good
+STU1877,9,Male,Delhi Public School,Social Studies,3.2,98.2,80.4,6.8,66.0,58.1,D,Self Study,Good
+STU1878,10,Male,Modern School,Computer Science,2.2,77.8,61.4,7.1,54.9,52.6,D,Online Courses,Good
+STU1879,12,Female,Ryan International,Social Studies,1.3,94.9,75.4,6.1,80.9,62.6,C,Coaching,Good
+STU1880,10,Male,DAV Public School,Computer Science,5.8,96.5,69.8,6.5,84.5,82.5,A,Coaching,Average
+STU1881,11,Male,Ryan International,English,1.1,83.2,55.9,7.2,84.2,59.8,D,Online Courses,Good
+STU1882,10,Male,DAV Public School,English,3.0,91.5,79.8,6.4,67.9,44.5,D,Self Study,Average
+STU1883,11,Female,Kendriya Vidyalaya,Science,4.2,87.6,95.5,6.8,93.5,81.8,A,Study Group,Average
+STU1884,11,Male,Modern School,Science,4.2,86.2,100.0,7.1,70.8,67.3,C,Online Courses,Good
+STU1885,10,Male,Ryan International,Computer Science,1.8,87.6,65.3,8.1,66.3,52.5,D,Coaching,Good
+STU1886,9,Female,Ryan International,English,0.6,60.5,94.2,6.5,60.3,46.5,D,Online Courses,Good
+STU1887,12,Male,Kendriya Vidyalaya,Science,2.3,93.9,73.6,9.3,64.5,55.0,D,Study Group,Average
+STU1888,11,Male,DAV Public School,Science,2.2,85.5,97.0,5.1,80.5,71.9,B,Coaching,Good
+STU1889,9,Female,St. Xavier's,Mathematics,4.1,75.7,70.8,8.2,78.2,51.2,D,Self Study,Poor
+STU1890,10,Female,Ryan International,Social Studies,2.1,67.8,72.5,6.8,77.6,50.9,D,Online Courses,Average
+STU1891,11,Female,Delhi Public School,English,1.9,87.2,61.2,5.8,47.2,41.5,D,Self Study,Good
+STU1892,10,Male,St. Xavier's,Science,4.2,93.4,43.1,7.3,80.4,67.7,C,Self Study,Good
+STU1893,9,Female,Modern School,English,5.7,81.6,52.6,5.5,62.1,55.4,D,Study Group,Poor
+STU1894,11,Female,Ryan International,Mathematics,1.8,63.9,100.0,6.7,98.0,59.8,D,Self Study,Good
+STU1895,10,Female,DAV Public School,Computer Science,2.0,82.8,70.6,7.5,58.0,48.8,D,Self Study,Good
+STU1896,10,Female,DAV Public School,Computer Science,3.1,74.9,75.9,8.2,86.3,68.2,C,Online Courses,Average
+STU1897,10,Male,Ryan International,Science,0.3,65.7,75.3,6.3,67.8,49.6,D,Coaching,Good
+STU1898,11,Male,DAV Public School,Computer Science,3.8,68.4,93.8,6.7,66.5,49.1,D,Study Group,Good
+STU1899,9,Male,Modern School,Science,1.4,88.6,83.0,6.7,72.2,49.1,D,Study Group,Average
+STU1900,12,Male,Kendriya Vidyalaya,Mathematics,2.9,82.6,100.0,7.9,81.6,54.7,D,Study Group,Good
+STU1901,11,Female,Delhi Public School,Science,1.1,86.6,65.8,6.1,54.4,58.2,D,Coaching,Average
+STU1902,11,Female,Modern School,Mathematics,1.0,76.8,95.7,8.6,65.0,59.5,D,Study Group,Average
+STU1903,10,Female,Delhi Public School,Social Studies,1.3,84.4,50.3,6.3,59.2,45.5,D,Study Group,Average
+STU1904,9,Female,Ryan International,Mathematics,1.9,100.0,81.3,7.0,78.2,60.3,C,Self Study,Good
+STU1905,12,Female,Modern School,Mathematics,2.2,78.6,68.5,7.7,84.0,57.2,D,Online Courses,Good
+STU1906,12,Male,St. Xavier's,Mathematics,2.9,92.9,64.4,4.7,80.8,70.6,B,Online Courses,Good
+STU1907,11,Male,Kendriya Vidyalaya,Social Studies,5.5,89.3,72.2,7.1,81.1,68.6,C,Coaching,Average
+STU1908,10,Male,DAV Public School,Social Studies,1.5,86.7,69.7,8.0,74.9,63.9,C,Study Group,Poor
+STU1909,10,Male,Delhi Public School,Science,3.3,72.7,60.9,5.2,66.6,60.5,C,Self Study,Good
+STU1910,9,Female,Ryan International,Mathematics,4.3,91.8,83.1,7.1,67.7,60.4,C,Online Courses,Good
+STU1911,12,Male,Ryan International,English,1.8,94.0,85.6,5.7,69.1,58.9,D,Coaching,Good
+STU1912,12,Female,St. Xavier's,Social Studies,3.7,76.6,98.5,5.7,79.4,58.7,D,Study Group,Good
+STU1913,10,Male,Modern School,English,3.7,81.2,89.8,7.7,70.6,59.7,D,Self Study,Poor
+STU1914,10,Male,Ryan International,Science,4.6,79.6,84.1,7.5,71.4,64.7,C,Study Group,Good
+STU1915,9,Female,St. Xavier's,Mathematics,1.6,75.9,100.0,6.7,75.4,68.1,C,Online Courses,Good
+STU1916,9,Female,Delhi Public School,Science,3.3,71.5,83.8,5.9,69.9,63.6,C,Study Group,Good
+STU1917,10,Male,Modern School,English,3.4,85.9,46.7,5.0,79.9,61.2,C,Coaching,Good
+STU1918,12,Female,Kendriya Vidyalaya,Social Studies,2.4,78.8,91.7,7.6,80.4,63.9,C,Study Group,Good
+STU1919,12,Male,Delhi Public School,Science,4.4,75.3,75.8,7.4,75.7,59.8,D,Study Group,Good
+STU1920,10,Female,Ryan International,Social Studies,4.1,69.9,70.8,6.4,75.4,65.6,C,Study Group,Poor
+STU1921,11,Male,Kendriya Vidyalaya,Computer Science,3.0,84.4,99.7,5.9,69.1,56.0,D,Self Study,Good
+STU1922,10,Male,Delhi Public School,Computer Science,3.9,86.9,68.8,7.3,76.4,68.6,C,Online Courses,Average
+STU1923,10,Male,Ryan International,English,2.3,79.6,81.8,5.6,83.3,60.1,C,Study Group,Poor
+STU1924,12,Female,Delhi Public School,Computer Science,4.9,89.7,74.8,6.2,64.4,63.0,C,Online Courses,Average
+STU1925,10,Female,DAV Public School,English,1.1,71.2,81.9,5.6,65.9,39.4,D,Coaching,Average
+STU1926,12,Female,St. Xavier's,Science,4.2,79.0,68.8,5.5,78.6,54.9,D,Self Study,Good
+STU1927,9,Female,Modern School,Science,3.4,77.8,51.8,8.0,73.5,65.8,C,Study Group,Poor
+STU1928,12,Male,Delhi Public School,Science,0.3,82.6,92.8,8.0,60.0,42.4,D,Online Courses,Average
+STU1929,9,Female,Kendriya Vidyalaya,Mathematics,3.2,97.0,74.2,5.1,30.0,31.1,D,Study Group,Good
+STU1930,12,Female,Kendriya Vidyalaya,Social Studies,4.1,83.0,92.3,7.4,51.0,59.7,D,Coaching,Good
+STU1931,12,Male,Delhi Public School,Computer Science,1.1,78.9,61.6,7.5,61.7,49.1,D,Study Group,Average
+STU1932,10,Male,Modern School,Mathematics,1.9,81.4,94.0,8.5,55.7,57.6,D,Study Group,Good
+STU1933,11,Female,Modern School,English,1.7,76.1,79.4,6.5,62.6,67.5,C,Online Courses,Average
+STU1934,10,Male,DAV Public School,Computer Science,1.2,70.7,90.0,5.8,74.0,47.6,D,Study Group,Average
+STU1935,9,Female,Ryan International,English,2.3,75.2,89.9,5.1,69.1,49.2,D,Coaching,Average
+STU1936,10,Male,Ryan International,Computer Science,1.8,84.6,61.7,6.4,74.7,58.0,D,Coaching,Good
+STU1937,10,Male,Delhi Public School,Social Studies,2.0,73.2,72.3,6.0,72.2,46.0,D,Self Study,Good
+STU1938,9,Male,Modern School,English,4.4,90.3,84.6,6.3,61.4,66.0,C,Coaching,Good
+STU1939,9,Male,Delhi Public School,Science,4.5,81.3,75.0,7.5,79.5,76.0,B,Study Group,Good
+STU1940,12,Female,Delhi Public School,Science,1.3,73.1,100.0,7.6,58.2,53.3,D,Online Courses,Poor
+STU1941,11,Female,Kendriya Vidyalaya,Mathematics,2.3,68.2,81.1,6.2,68.8,60.4,C,Self Study,Good
+STU1942,12,Female,Ryan International,Mathematics,4.0,100.0,87.7,6.0,60.6,59.3,D,Online Courses,Good
+STU1943,11,Male,Kendriya Vidyalaya,Social Studies,3.1,60.7,100.0,5.6,67.3,54.2,D,Self Study,Poor
+STU1944,11,Male,Ryan International,English,2.9,85.4,78.8,8.2,53.6,63.6,C,Self Study,Good
+STU1945,11,Male,St. Xavier's,Computer Science,2.4,81.1,88.6,6.8,67.5,59.0,D,Study Group,Average
+STU1946,11,Female,Kendriya Vidyalaya,Science,2.0,89.8,71.3,7.5,72.1,57.0,D,Coaching,Good
+STU1947,10,Female,Modern School,Social Studies,1.2,82.1,61.8,7.5,93.1,48.9,D,Online Courses,Poor
+STU1948,9,Male,Kendriya Vidyalaya,Computer Science,4.8,69.5,75.6,5.8,42.2,29.2,D,Coaching,Good
+STU1949,10,Female,DAV Public School,Mathematics,1.4,76.4,70.5,7.3,52.8,66.1,C,Study Group,Good
+STU1950,10,Female,Delhi Public School,Social Studies,3.6,88.9,91.3,5.2,81.1,67.0,C,Study Group,Average
+STU1951,9,Male,Modern School,Mathematics,1.5,89.9,100.0,8.6,76.9,62.5,C,Study Group,Average
+STU1952,10,Female,DAV Public School,Computer Science,3.5,80.9,92.4,7.9,51.0,62.3,C,Coaching,Poor
+STU1953,9,Male,DAV Public School,Computer Science,4.7,87.1,63.4,6.0,77.8,58.4,D,Coaching,Good
+STU1954,9,Male,St. Xavier's,English,2.7,85.8,86.2,5.6,66.1,60.7,C,Self Study,Average
+STU1955,10,Female,Ryan International,Mathematics,1.8,93.6,91.4,6.9,63.9,65.8,C,Study Group,Poor
+STU1956,9,Female,Delhi Public School,English,4.0,100.0,58.5,7.1,98.0,70.6,B,Coaching,Good
+STU1957,9,Female,Kendriya Vidyalaya,Computer Science,2.8,75.5,86.4,8.6,74.1,61.6,C,Study Group,Good
+STU1958,11,Female,Modern School,English,1.8,85.9,73.7,6.5,65.9,68.8,C,Study Group,Good
+STU1959,10,Male,Delhi Public School,Science,2.8,76.7,62.1,7.5,56.0,59.4,D,Self Study,Average
+STU1960,9,Male,Ryan International,English,3.6,80.8,57.1,7.1,73.2,65.4,C,Coaching,Average
+STU1961,11,Male,Modern School,Mathematics,3.5,81.0,74.1,6.6,91.4,63.7,C,Online Courses,Good
+STU1962,10,Female,Ryan International,Science,3.6,100.0,62.1,7.1,62.2,77.7,B,Coaching,Average
+STU1963,11,Female,Modern School,English,2.2,84.2,83.4,10.0,76.3,63.2,C,Online Courses,Good
+STU1964,11,Male,St. Xavier's,Science,1.9,95.9,83.4,7.9,62.5,40.7,D,Coaching,Good
+STU1965,12,Male,Kendriya Vidyalaya,Science,2.9,89.0,84.9,8.1,82.0,75.2,B,Self Study,Poor
+STU1966,11,Female,Delhi Public School,Science,3.9,82.5,100.0,5.4,47.0,59.8,D,Self Study,Good
+STU1967,9,Female,Delhi Public School,English,2.3,93.1,49.4,6.2,65.9,57.1,D,Coaching,Good
+STU1968,10,Female,Ryan International,Science,1.6,83.0,86.4,6.8,73.8,62.9,C,Online Courses,Good
+STU1969,10,Male,St. Xavier's,Science,4.6,79.7,63.3,7.2,77.6,63.2,C,Study Group,Good
+STU1970,9,Male,Modern School,Computer Science,2.0,65.8,88.3,6.8,62.6,39.9,D,Self Study,Good
+STU1971,10,Female,Modern School,English,1.9,79.1,63.4,6.5,80.1,56.8,D,Online Courses,Good
+STU1972,12,Male,Modern School,Science,3.1,70.6,82.1,7.6,91.4,63.2,C,Online Courses,Good
+STU1973,10,Female,Ryan International,Mathematics,1.5,75.4,62.1,5.1,68.5,51.4,D,Coaching,Good
+STU1974,10,Female,DAV Public School,Mathematics,3.6,89.6,69.3,9.0,95.9,81.5,A,Coaching,Average
+STU1975,9,Male,Kendriya Vidyalaya,English,3.5,87.2,99.8,6.6,79.5,72.0,B,Study Group,Average
+STU1976,11,Male,Kendriya Vidyalaya,Mathematics,4.4,90.4,100.0,8.1,56.7,77.0,B,Study Group,Poor
+STU1977,11,Female,Delhi Public School,English,1.9,77.5,78.4,7.7,73.9,68.2,C,Self Study,Good
+STU1978,10,Female,Delhi Public School,Computer Science,2.0,87.3,73.5,7.5,69.1,50.0,D,Study Group,Average
+STU1979,10,Male,Ryan International,Computer Science,2.9,81.8,87.4,7.4,75.1,65.6,C,Study Group,Average
+STU1980,11,Female,Ryan International,Science,3.0,72.5,76.4,7.0,85.7,74.6,B,Study Group,Average
+STU1981,11,Male,Modern School,Computer Science,1.6,82.3,86.5,7.1,46.6,42.4,D,Online Courses,Good
+STU1982,10,Male,Delhi Public School,English,1.3,76.4,74.4,7.6,86.7,66.8,C,Coaching,Good
+STU1983,10,Male,St. Xavier's,Mathematics,2.6,92.0,81.6,9.0,63.2,69.8,C,Online Courses,Average
+STU1984,10,Male,Kendriya Vidyalaya,Computer Science,2.6,86.1,67.3,6.5,37.6,44.6,D,Study Group,Average
+STU1985,11,Female,Kendriya Vidyalaya,Science,1.7,67.1,93.9,4.9,65.6,65.8,C,Study Group,Good
+STU1986,9,Female,St. Xavier's,Mathematics,3.4,86.9,80.3,6.2,53.8,56.4,D,Self Study,Good
+STU1987,9,Male,Kendriya Vidyalaya,Computer Science,3.0,70.0,50.5,5.1,51.1,55.7,D,Study Group,Average
+STU1988,9,Female,Delhi Public School,Science,5.2,83.4,79.3,8.9,71.5,64.3,C,Coaching,Average
+STU1989,9,Male,Delhi Public School,Science,3.8,76.5,82.0,8.7,74.6,55.1,D,Coaching,Average
+STU1990,10,Male,DAV Public School,Science,2.0,79.4,85.1,7.7,64.4,54.7,D,Study Group,Average
+STU1991,10,Female,Modern School,English,2.7,68.2,77.4,6.2,84.6,51.5,D,Coaching,Good
+STU1992,11,Male,Delhi Public School,Science,3.4,75.0,86.0,7.0,65.8,51.7,D,Self Study,Good
+STU1993,9,Female,DAV Public School,Social Studies,4.5,100.0,88.8,7.6,60.3,58.3,D,Self Study,Good
+STU1994,10,Female,St. Xavier's,English,3.0,95.6,74.9,6.3,83.5,72.7,B,Study Group,Good
+STU1995,10,Male,St. Xavier's,Science,0.7,58.8,48.6,10.0,52.3,49.7,D,Self Study,Good
+STU1996,10,Female,Delhi Public School,Computer Science,2.5,83.5,100.0,8.1,83.9,76.0,B,Self Study,Good
+STU1997,9,Male,DAV Public School,Science,1.8,71.0,72.3,6.5,51.3,53.8,D,Coaching,Good
+STU1998,9,Male,DAV Public School,Computer Science,0.9,100.0,87.4,4.9,60.5,54.6,D,Self Study,Good
+STU1999,10,Male,St. Xavier's,English,2.3,85.6,88.2,6.7,57.9,39.1,D,Self Study,Good
+STU2000,9,Female,Kendriya Vidyalaya,Science,3.6,84.4,66.1,7.7,65.9,53.0,D,Online Courses,Average
+STU2001,12,Female,Delhi Public School,Mathematics,2.8,73.4,81.8,7.1,81.1,73.6,B,Study Group,Average
+STU2002,11,Female,St. Xavier's,English,5.0,68.7,78.0,8.4,91.4,66.3,C,Self Study,Average
+STU2003,12,Male,Kendriya Vidyalaya,Mathematics,2.9,82.9,92.2,4.7,63.5,54.4,D,Self Study,Good
+STU2004,9,Male,St. Xavier's,Science,2.0,91.1,85.7,6.3,75.4,64.3,C,Online Courses,Good
+STU2005,9,Male,Kendriya Vidyalaya,Social Studies,3.4,84.4,73.9,6.3,98.0,62.4,C,Self Study,Good
+STU2006,9,Female,St. Xavier's,Science,0.3,100.0,100.0,7.6,75.0,57.6,D,Study Group,Average
+STU2007,10,Male,Delhi Public School,Computer Science,2.3,74.9,72.7,10.0,54.7,47.9,D,Coaching,Average
+STU2008,10,Male,Ryan International,Social Studies,2.7,90.4,84.0,6.9,65.2,60.2,C,Coaching,Good
+STU2009,10,Female,DAV Public School,Science,3.6,87.9,82.3,7.7,69.5,67.7,C,Self Study,Good
+STU2010,11,Female,Ryan International,Computer Science,3.7,84.9,82.6,8.0,88.3,62.0,C,Online Courses,Good
+STU2011,11,Female,Ryan International,Computer Science,3.2,65.5,100.0,6.6,78.1,65.6,C,Online Courses,Good
+STU2012,12,Male,Delhi Public School,Computer Science,3.3,70.3,94.0,7.7,68.1,55.1,D,Self Study,Good
+STU2013,11,Male,DAV Public School,Science,2.0,76.5,52.5,9.3,77.7,63.7,C,Coaching,Good
+STU2014,11,Female,Ryan International,Mathematics,5.0,88.2,83.9,5.3,57.6,60.1,C,Coaching,Good
+STU2015,12,Female,Kendriya Vidyalaya,English,4.6,72.6,66.1,8.1,63.9,57.8,D,Self Study,Good
+STU2016,11,Female,Delhi Public School,Computer Science,3.9,99.1,80.4,5.6,73.3,82.0,A,Coaching,Poor
+STU2017,10,Male,Kendriya Vidyalaya,Social Studies,1.7,91.5,58.6,6.8,62.6,50.1,D,Self Study,Good
+STU2018,9,Female,St. Xavier's,English,2.3,73.8,100.0,7.4,73.7,74.6,B,Online Courses,Good
+STU2019,9,Female,Kendriya Vidyalaya,Social Studies,4.3,61.0,100.0,8.7,61.6,59.9,D,Self Study,Good
+STU2020,12,Female,Modern School,Science,3.7,100.0,77.4,6.3,81.2,68.6,C,Coaching,Average
+STU2021,9,Female,Modern School,English,2.2,78.4,92.7,5.9,58.6,55.0,D,Self Study,Good
+STU2022,11,Female,Ryan International,English,2.5,85.6,80.7,8.0,69.6,67.6,C,Self Study,Good
+STU2023,9,Male,Delhi Public School,Social Studies,1.7,77.1,85.3,5.7,83.7,61.6,C,Self Study,Good
+STU2024,10,Male,St. Xavier's,Science,3.3,72.5,91.4,6.2,72.2,61.8,C,Study Group,Average
+STU2025,9,Male,Delhi Public School,English,3.5,65.4,73.5,7.2,65.5,53.5,D,Study Group,Average
+STU2026,12,Female,Delhi Public School,English,1.1,72.4,72.1,7.8,65.0,57.2,D,Online Courses,Average
+STU2027,11,Male,Ryan International,Computer Science,1.8,100.0,56.9,6.3,55.9,59.3,D,Coaching,Poor
+STU2028,10,Male,Ryan International,English,2.1,85.1,94.7,7.7,85.8,62.2,C,Self Study,Good
+STU2029,12,Female,DAV Public School,Science,2.9,79.6,85.3,5.7,87.1,62.1,C,Self Study,Good
+STU2030,11,Female,Kendriya Vidyalaya,Mathematics,4.8,69.3,67.9,7.6,61.1,63.4,C,Study Group,Good
+STU2031,10,Female,Delhi Public School,Mathematics,2.6,68.2,98.4,8.0,63.0,56.9,D,Coaching,Average
+STU2032,11,Male,Delhi Public School,Social Studies,3.7,82.5,53.8,6.1,80.2,52.7,D,Study Group,Average
+STU2033,12,Female,Ryan International,Social Studies,3.9,98.7,76.0,7.4,56.3,61.2,C,Coaching,Poor
+STU2034,9,Male,Kendriya Vidyalaya,Science,2.3,85.9,68.3,8.3,78.7,47.6,D,Online Courses,Good
+STU2035,12,Male,Delhi Public School,Science,4.2,81.6,80.8,6.3,70.0,72.0,B,Self Study,Average
+STU2036,10,Female,Modern School,Computer Science,2.1,76.3,35.0,7.0,84.1,59.3,D,Self Study,Good
+STU2037,11,Male,Kendriya Vidyalaya,Mathematics,3.5,86.1,73.2,5.6,61.7,60.1,C,Self Study,Average
+STU2038,12,Female,Delhi Public School,Computer Science,3.4,85.8,79.3,4.2,80.7,69.6,C,Coaching,Good
+STU2039,10,Female,Modern School,Science,2.6,85.9,79.0,6.9,38.2,51.3,D,Study Group,Average
+STU2040,9,Female,DAV Public School,Science,0.7,69.6,98.8,7.5,44.0,46.7,D,Coaching,Good
+STU2041,9,Female,Kendriya Vidyalaya,Social Studies,0.7,77.2,72.3,6.8,70.2,54.1,D,Self Study,Good
+STU2042,11,Male,Delhi Public School,Science,1.0,76.5,100.0,6.2,56.7,53.3,D,Coaching,Good
+STU2043,12,Female,St. Xavier's,Mathematics,3.2,86.1,81.7,5.2,62.1,43.7,D,Self Study,Good
+STU2044,9,Male,Ryan International,English,4.2,81.7,54.6,6.8,72.8,56.8,D,Online Courses,Good
+STU2045,11,Male,Modern School,Computer Science,3.9,59.5,70.1,6.7,83.6,70.4,B,Study Group,Good
+STU2046,12,Male,St. Xavier's,Computer Science,4.1,92.1,78.4,6.3,83.6,56.5,D,Self Study,Average
+STU2047,11,Male,Kendriya Vidyalaya,Social Studies,3.6,84.6,79.1,7.0,52.8,69.0,C,Self Study,Good
+STU2048,9,Female,DAV Public School,Mathematics,3.6,71.3,89.6,8.8,70.1,69.9,C,Self Study,Good
+STU2049,12,Female,DAV Public School,Computer Science,3.3,88.5,91.1,8.1,55.8,62.1,C,Self Study,Average
+STU2050,11,Female,St. Xavier's,Computer Science,2.8,87.9,77.7,6.8,84.6,68.3,C,Self Study,Poor
+STU2051,12,Male,Kendriya Vidyalaya,Social Studies,4.2,93.1,84.5,6.4,53.7,56.5,D,Online Courses,Average
+STU2052,10,Male,Kendriya Vidyalaya,English,2.5,66.7,80.4,8.6,65.4,62.3,C,Coaching,Average
+STU2053,12,Male,Delhi Public School,Science,4.2,88.8,52.6,7.9,57.9,56.1,D,Self Study,Good
+STU2054,10,Female,DAV Public School,English,2.5,80.6,89.0,7.5,89.8,69.4,C,Self Study,Good
+STU2055,10,Male,Modern School,Mathematics,2.8,92.4,60.3,4.2,91.6,63.4,C,Coaching,Good
+STU2056,11,Male,DAV Public School,Mathematics,3.1,73.7,73.5,5.9,57.4,53.5,D,Study Group,Average
+STU2057,10,Male,Modern School,Social Studies,2.7,74.4,81.9,4.0,80.4,62.8,C,Study Group,Good
+STU2058,10,Male,Kendriya Vidyalaya,Social Studies,1.9,79.0,60.6,6.9,77.1,71.4,B,Online Courses,Average
+STU2059,9,Male,DAV Public School,Science,2.0,78.2,69.2,8.4,61.5,52.0,D,Online Courses,Good
+STU2060,9,Male,Kendriya Vidyalaya,Social Studies,1.3,79.0,83.1,5.4,58.8,59.9,D,Coaching,Poor
+STU2061,10,Male,Ryan International,Science,6.7,94.8,56.0,7.3,52.7,64.8,C,Self Study,Good
+STU2062,12,Male,St. Xavier's,Mathematics,1.0,85.5,74.3,5.8,81.8,71.8,B,Self Study,Good
+STU2063,11,Female,Ryan International,Science,3.2,82.7,59.0,7.2,58.6,57.1,D,Self Study,Good
+STU2064,11,Female,St. Xavier's,English,1.0,76.8,71.6,6.5,81.8,49.9,D,Coaching,Average
+STU2065,10,Female,Kendriya Vidyalaya,Social Studies,1.7,97.2,58.9,8.0,55.3,50.5,D,Coaching,Good
+STU2066,10,Male,DAV Public School,Mathematics,2.0,100.0,72.5,5.0,55.6,49.1,D,Self Study,Good
+STU2067,9,Male,Ryan International,Mathematics,2.0,89.8,88.3,7.7,78.7,61.7,C,Study Group,Average
+STU2068,11,Male,Modern School,Social Studies,2.6,93.1,88.2,5.1,61.2,55.2,D,Study Group,Average
+STU2069,11,Male,Modern School,Computer Science,3.2,80.2,86.5,8.4,58.1,55.0,D,Coaching,Average
+STU2070,11,Female,Delhi Public School,Mathematics,2.1,81.2,90.3,8.4,47.5,47.0,D,Online Courses,Good
+STU2071,12,Female,Kendriya Vidyalaya,Mathematics,3.4,83.6,61.4,6.3,71.6,47.8,D,Study Group,Good
+STU2072,11,Male,Kendriya Vidyalaya,English,3.2,96.3,98.0,6.3,92.8,79.7,B,Self Study,Average
+STU2073,9,Female,Ryan International,Computer Science,3.6,96.5,78.4,5.6,68.4,70.7,B,Online Courses,Poor
+STU2074,11,Male,St. Xavier's,Mathematics,3.4,100.0,80.6,8.3,70.5,73.2,B,Study Group,Good
+STU2075,12,Male,Delhi Public School,Social Studies,3.3,94.8,94.7,7.8,68.4,63.9,C,Online Courses,Good
+STU2076,10,Female,Modern School,Mathematics,2.3,87.0,91.9,6.4,60.2,63.1,C,Online Courses,Average
+STU2077,12,Female,St. Xavier's,Science,3.0,80.6,100.0,6.5,44.6,58.9,D,Self Study,Good
+STU2078,11,Male,DAV Public School,Social Studies,2.6,84.2,47.5,7.2,54.8,34.8,D,Self Study,Good
+STU2079,9,Female,Ryan International,Computer Science,1.2,73.0,82.6,7.4,72.0,53.7,D,Self Study,Good
+STU2080,10,Female,DAV Public School,Social Studies,1.6,72.6,90.8,7.0,78.3,56.2,D,Online Courses,Good
+STU2081,9,Male,Delhi Public School,Mathematics,1.1,96.4,63.6,6.3,68.9,44.5,D,Online Courses,Average
+STU2082,9,Female,Modern School,Social Studies,0.3,86.0,62.6,5.9,56.8,63.0,C,Study Group,Average
+STU2083,9,Female,Modern School,Social Studies,2.3,83.6,82.2,7.1,65.3,49.9,D,Online Courses,Average
+STU2084,9,Female,Kendriya Vidyalaya,Mathematics,2.1,73.8,62.6,6.4,67.2,48.0,D,Self Study,Good
+STU2085,11,Male,DAV Public School,Mathematics,1.7,90.3,71.4,6.3,78.2,64.2,C,Coaching,Poor
+STU2086,10,Female,St. Xavier's,Social Studies,2.3,72.0,80.5,6.4,49.7,49.1,D,Coaching,Average
+STU2087,11,Male,Modern School,Computer Science,0.4,93.5,63.6,6.9,74.8,48.2,D,Online Courses,Good
+STU2088,11,Female,Ryan International,Computer Science,0.5,66.7,100.0,8.0,63.6,54.0,D,Self Study,Average
+STU2089,9,Female,Ryan International,Computer Science,0.6,88.9,66.7,4.4,86.6,70.0,B,Online Courses,Good
+STU2090,11,Female,Modern School,Computer Science,0.3,84.9,100.0,5.3,66.8,67.0,C,Coaching,Good
+STU2091,9,Female,Ryan International,English,2.0,87.8,93.7,6.7,85.9,77.7,B,Coaching,Good
+STU2092,9,Male,Delhi Public School,English,3.4,66.5,64.0,7.0,73.0,46.7,D,Self Study,Good
+STU2093,12,Male,Kendriya Vidyalaya,Computer Science,4.0,80.8,100.0,9.1,75.0,54.4,D,Online Courses,Average
+STU2094,12,Male,Delhi Public School,English,1.9,84.1,60.9,7.0,74.4,57.3,D,Self Study,Good
+STU2095,11,Female,DAV Public School,Science,2.5,100.0,73.7,7.7,74.5,63.7,C,Study Group,Good
+STU2096,10,Female,Kendriya Vidyalaya,Computer Science,2.9,82.1,88.3,7.5,46.1,55.0,D,Self Study,Good
+STU2097,12,Female,St. Xavier's,Social Studies,2.4,87.8,89.9,8.5,71.6,87.9,A,Coaching,Good
+STU2098,10,Female,DAV Public School,Computer Science,1.6,78.9,67.8,9.6,47.1,42.4,D,Coaching,Good
+STU2099,10,Female,Ryan International,Social Studies,5.3,94.9,76.0,6.9,56.4,70.5,B,Study Group,Good
+STU2100,11,Male,Kendriya Vidyalaya,Science,3.9,66.4,70.3,6.8,63.9,58.6,D,Study Group,Good
+STU2101,9,Male,Ryan International,Science,3.6,79.2,79.8,6.8,56.8,55.3,D,Self Study,Good
+STU2102,11,Male,DAV Public School,Mathematics,1.5,84.1,58.3,6.0,76.7,64.6,C,Self Study,Average
+STU2103,9,Female,Delhi Public School,English,2.7,78.2,77.3,6.8,65.3,53.0,D,Study Group,Good
+STU2104,11,Female,Modern School,Computer Science,2.1,88.3,65.9,7.4,79.7,53.7,D,Coaching,Good
+STU2105,10,Female,St. Xavier's,Social Studies,3.8,81.2,83.3,8.6,54.1,55.2,D,Online Courses,Good
+STU2106,9,Male,DAV Public School,Science,4.1,73.7,66.9,5.8,61.6,57.2,D,Online Courses,Average
+STU2107,10,Male,St. Xavier's,Mathematics,4.9,90.2,86.6,7.6,53.9,66.4,C,Online Courses,Good
+STU2108,11,Male,Modern School,English,1.4,86.0,93.9,7.0,67.5,66.8,C,Self Study,Good
+STU2109,10,Male,St. Xavier's,Mathematics,5.1,68.7,97.1,6.1,46.0,53.7,D,Self Study,Poor
+STU2110,12,Female,DAV Public School,Mathematics,2.2,100.0,92.8,6.5,65.4,63.9,C,Coaching,Average
+STU2111,11,Male,Delhi Public School,Computer Science,3.0,89.5,79.6,7.0,75.0,62.0,C,Study Group,Good
+STU2112,9,Female,DAV Public School,Mathematics,1.3,81.0,72.4,8.8,61.9,54.7,D,Coaching,Poor
+STU2113,9,Male,St. Xavier's,Computer Science,1.6,92.6,89.1,7.8,64.8,59.6,D,Study Group,Average
+STU2114,12,Female,Modern School,Social Studies,2.6,73.0,78.0,6.5,53.3,63.1,C,Online Courses,Average
+STU2115,12,Male,Delhi Public School,English,1.3,76.3,46.8,4.2,75.7,49.0,D,Self Study,Good
+STU2116,9,Male,Delhi Public School,Social Studies,3.3,88.2,78.8,6.6,55.7,59.7,D,Study Group,Good
+STU2117,9,Female,Delhi Public School,Computer Science,3.9,92.8,90.6,6.2,74.5,69.3,C,Online Courses,Average
+STU2118,12,Female,St. Xavier's,English,3.4,51.0,87.4,7.3,61.7,67.7,C,Online Courses,Average
+STU2119,9,Female,Kendriya Vidyalaya,Science,2.4,82.1,57.8,8.1,73.8,51.3,D,Coaching,Good
+STU2120,12,Female,Delhi Public School,Mathematics,3.1,75.8,72.7,7.4,63.7,61.6,C,Coaching,Good
+STU2121,9,Male,Kendriya Vidyalaya,Science,4.7,92.1,52.6,5.6,79.8,62.2,C,Study Group,Average
+STU2122,11,Male,Delhi Public School,Computer Science,4.0,77.9,76.6,8.8,62.9,69.5,C,Study Group,Average
+STU2123,10,Female,St. Xavier's,English,0.4,84.8,83.4,7.0,43.4,38.0,D,Online Courses,Average
+STU2124,9,Female,Ryan International,Social Studies,1.8,92.3,85.4,6.8,69.8,62.0,C,Self Study,Good
+STU2125,12,Female,Kendriya Vidyalaya,Science,1.5,82.7,82.0,8.0,43.4,52.5,D,Online Courses,Good
+STU2126,12,Female,St. Xavier's,Computer Science,4.3,100.0,75.4,6.3,69.6,76.1,B,Self Study,Poor
+STU2127,11,Female,Kendriya Vidyalaya,English,3.2,88.0,71.8,7.3,75.0,65.3,C,Coaching,Good
+STU2128,11,Female,St. Xavier's,Computer Science,3.0,94.0,80.8,4.8,50.1,62.0,C,Online Courses,Average
+STU2129,10,Male,DAV Public School,Science,3.3,78.0,97.6,7.5,34.0,45.4,D,Coaching,Poor
+STU2130,12,Female,DAV Public School,Computer Science,0.4,60.9,77.9,6.7,78.6,55.9,D,Study Group,Average
+STU2131,12,Male,Modern School,Social Studies,2.2,86.0,100.0,5.8,51.8,52.8,D,Self Study,Good
+STU2132,10,Female,St. Xavier's,Mathematics,2.9,87.9,95.5,6.1,49.1,57.4,D,Coaching,Good
+STU2133,9,Female,Kendriya Vidyalaya,Social Studies,2.5,81.3,64.6,5.9,71.4,48.0,D,Self Study,Average
+STU2134,9,Female,Delhi Public School,English,4.3,85.3,89.3,7.5,78.3,71.2,B,Coaching,Good
+STU2135,12,Male,St. Xavier's,Social Studies,1.4,85.2,65.4,6.9,56.4,59.3,D,Online Courses,Good
+STU2136,11,Female,St. Xavier's,English,2.9,74.8,78.9,6.4,67.5,56.3,D,Study Group,Good
+STU2137,11,Male,St. Xavier's,Mathematics,4.6,73.3,93.5,7.9,60.9,65.4,C,Online Courses,Good
+STU2138,12,Male,Ryan International,Mathematics,4.2,68.8,92.3,6.9,51.2,58.6,D,Coaching,Good
+STU2139,9,Female,Modern School,Social Studies,3.3,79.3,86.1,8.1,68.9,61.4,C,Online Courses,Average
+STU2140,10,Male,Ryan International,Science,1.8,81.0,76.7,8.1,64.7,67.4,C,Online Courses,Good
+STU2141,12,Female,Ryan International,Science,3.9,85.7,86.6,8.1,81.4,67.6,C,Self Study,Average
+STU2142,9,Female,St. Xavier's,Mathematics,1.5,80.2,88.4,7.1,75.5,50.5,D,Self Study,Average
+STU2143,10,Female,Modern School,Computer Science,2.7,75.2,85.5,5.9,55.9,57.9,D,Study Group,Average
+STU2144,12,Male,Ryan International,Science,1.8,85.7,52.0,4.8,93.9,61.3,C,Online Courses,Poor
+STU2145,12,Female,DAV Public School,Science,3.4,69.6,39.1,6.3,88.1,53.2,D,Coaching,Good
+STU2146,11,Female,St. Xavier's,Science,3.7,90.2,85.5,8.1,83.4,63.3,C,Self Study,Good
+STU2147,9,Female,Ryan International,Social Studies,2.2,82.4,76.8,6.8,58.6,55.1,D,Self Study,Average
+STU2148,12,Female,St. Xavier's,Social Studies,3.2,80.8,100.0,8.0,72.9,60.7,C,Study Group,Poor
+STU2149,10,Male,DAV Public School,Mathematics,3.2,91.3,57.3,8.0,80.6,68.2,C,Coaching,Good
+STU2150,11,Female,Kendriya Vidyalaya,English,5.4,83.2,86.6,7.6,58.2,73.6,B,Coaching,Average
+STU2151,12,Male,Delhi Public School,Computer Science,2.1,85.2,50.0,4.8,64.7,53.5,D,Self Study,Good
+STU2152,12,Male,DAV Public School,Computer Science,5.2,100.0,51.3,7.6,63.9,62.5,C,Self Study,Average
+STU2153,11,Male,Ryan International,Mathematics,3.9,76.0,79.5,4.8,82.3,67.9,C,Coaching,Good
+STU2154,9,Female,Kendriya Vidyalaya,Computer Science,3.3,86.4,91.1,7.6,61.7,66.9,C,Online Courses,Good
+STU2155,9,Female,DAV Public School,Mathematics,2.3,78.7,59.2,4.5,61.8,53.2,D,Self Study,Average
+STU2156,11,Female,Delhi Public School,Mathematics,1.3,79.0,84.8,9.4,70.8,57.6,D,Coaching,Average
+STU2157,10,Female,St. Xavier's,English,2.3,63.3,70.5,6.8,47.6,45.6,D,Coaching,Good
+STU2158,9,Female,Kendriya Vidyalaya,Social Studies,2.3,75.9,77.4,6.7,73.5,55.0,D,Study Group,Average
+STU2159,10,Female,Delhi Public School,Science,2.5,95.5,100.0,7.5,53.3,63.6,C,Coaching,Average
+STU2160,11,Female,Ryan International,Science,3.3,87.4,83.8,5.5,79.6,69.9,C,Study Group,Good
+STU2161,11,Female,Modern School,Mathematics,2.9,97.1,97.6,6.6,94.4,68.9,C,Study Group,Average
+STU2162,10,Female,St. Xavier's,Social Studies,4.3,91.5,57.8,6.9,76.9,65.0,C,Study Group,Good
+STU2163,9,Female,Ryan International,Social Studies,1.7,79.7,100.0,9.0,59.1,66.4,C,Study Group,Good
+STU2164,12,Female,Kendriya Vidyalaya,Social Studies,4.5,99.8,100.0,5.4,64.5,70.6,B,Coaching,Good
+STU2165,10,Male,Kendriya Vidyalaya,Mathematics,4.2,75.8,88.4,8.0,77.0,69.1,C,Study Group,Poor
+STU2166,12,Female,DAV Public School,Computer Science,2.4,83.5,67.0,7.4,60.3,59.2,D,Study Group,Good
+STU2167,10,Female,St. Xavier's,Science,3.2,76.2,85.5,7.6,70.0,57.0,D,Coaching,Good
+STU2168,10,Female,Ryan International,English,3.7,93.9,82.3,7.1,62.0,61.9,C,Online Courses,Good
+STU2169,9,Female,Ryan International,Mathematics,3.0,75.6,73.3,7.9,50.7,51.6,D,Study Group,Good
+STU2170,10,Female,St. Xavier's,Science,2.1,85.5,87.9,6.8,76.1,68.0,C,Self Study,Good
+STU2171,9,Male,DAV Public School,Computer Science,1.2,72.7,82.8,5.7,83.0,61.2,C,Self Study,Good
+STU2172,11,Female,Ryan International,Computer Science,3.0,67.4,94.6,8.6,81.3,62.4,C,Study Group,Average
+STU2173,12,Female,Kendriya Vidyalaya,English,2.8,85.7,53.7,6.7,61.4,57.4,D,Study Group,Good
+STU2174,11,Female,DAV Public School,Social Studies,3.7,99.5,67.2,7.3,71.1,60.5,C,Online Courses,Average
+STU2175,11,Male,Modern School,Mathematics,3.6,77.2,64.9,6.6,76.1,68.9,C,Study Group,Average
+STU2176,11,Male,Ryan International,Social Studies,1.6,94.6,64.1,4.9,68.1,59.3,D,Online Courses,Good
+STU2177,12,Male,Delhi Public School,English,0.3,81.0,76.9,7.0,75.1,43.8,D,Online Courses,Average
+STU2178,9,Female,DAV Public School,English,1.5,79.4,83.1,5.6,80.0,55.1,D,Study Group,Good
+STU2179,12,Female,Modern School,Social Studies,4.2,84.3,88.0,5.9,30.0,54.6,D,Coaching,Good
+STU2180,9,Female,St. Xavier's,Computer Science,1.2,91.2,49.7,8.2,60.4,49.3,D,Online Courses,Good
+STU2181,12,Male,Modern School,Mathematics,3.6,83.3,66.9,7.6,65.7,66.1,C,Online Courses,Good
+STU2182,12,Female,Ryan International,Computer Science,3.8,77.4,93.1,7.1,34.0,57.2,D,Study Group,Poor
+STU2183,10,Male,Modern School,Mathematics,3.0,52.7,72.6,7.2,73.4,49.0,D,Self Study,Good
+STU2184,9,Female,Ryan International,Science,4.2,96.2,54.8,6.2,66.1,48.7,D,Self Study,Good
+STU2185,11,Male,Kendriya Vidyalaya,Science,3.7,72.6,77.8,5.1,66.4,63.3,C,Study Group,Average
+STU2186,9,Female,DAV Public School,Computer Science,0.8,95.4,58.8,6.0,76.8,57.4,D,Online Courses,Good
+STU2187,10,Female,Kendriya Vidyalaya,English,1.8,69.4,87.6,5.3,64.5,56.4,D,Study Group,Good
+STU2188,12,Female,Modern School,Mathematics,4.6,61.2,83.9,8.3,72.4,67.3,C,Coaching,Average
+STU2189,12,Male,St. Xavier's,Computer Science,3.4,86.9,85.9,6.8,43.9,61.1,C,Coaching,Average
+STU2190,10,Male,Delhi Public School,Mathematics,3.0,92.2,77.7,8.3,64.0,58.6,D,Study Group,Average
+STU2191,11,Female,Kendriya Vidyalaya,English,2.5,75.8,49.3,6.6,65.2,55.3,D,Study Group,Good
+STU2192,12,Female,Ryan International,Social Studies,2.7,75.0,86.7,4.9,87.0,69.1,C,Online Courses,Average
+STU2193,9,Male,St. Xavier's,Science,2.8,68.9,86.4,7.1,86.8,58.2,D,Coaching,Average
+STU2194,9,Female,Delhi Public School,Computer Science,5.8,95.9,62.6,7.2,69.0,72.9,B,Coaching,Average
+STU2195,11,Male,Modern School,Social Studies,5.2,58.6,60.1,7.3,57.3,49.6,D,Study Group,Average
+STU2196,12,Male,Modern School,Science,3.2,93.2,57.0,7.1,69.2,69.5,C,Coaching,Good
+STU2197,12,Female,Modern School,Social Studies,3.3,75.3,74.6,5.0,83.6,57.4,D,Self Study,Poor
+STU2198,10,Female,St. Xavier's,Mathematics,1.2,87.9,51.3,6.5,74.0,47.7,D,Coaching,Good
+STU2199,10,Female,DAV Public School,Computer Science,1.5,98.5,79.3,5.6,76.6,56.9,D,Online Courses,Good
+STU2200,10,Female,Modern School,Social Studies,3.0,100.0,84.3,7.5,57.9,62.2,C,Study Group,Poor

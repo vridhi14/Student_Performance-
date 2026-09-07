@@ -1,0 +1,43 @@
+STUDENT PERFORMANCE & ACADEMIC ANALYTICS
+DATA ANALYTICS PROJECT REPORT
+
+1. INTRODUCTION
+This project analyzes a synthetic student-performance dataset to understand academic outcomes and identify factors associated with final scores.
+
+2. OBJECTIVES
+- Analyze student academic performance.
+- Compare subjects, schools and classes.
+- Compare different study methods.
+- Examine relationships between study habits, attendance and final scores.
+- Create visualizations and recommendations.
+
+3. DATASET
+The dataset contains 1,200 student-subject records with study hours, attendance, assignment completion, sleep hours, previous score, final score, grade, study method and internet access.
+
+4. TOOLS
+Python, Pandas, Matplotlib and Excel.
+
+5. KEY KPIs
+Total records: 1,200
+Unique students: 1,200
+Average final score: 59.33
+Average attendance: 81.94%
+Average study hours/day: 2.79
+
+6. KEY FINDINGS
+Highest-performing subject: Mathematics.
+Highest-performing school: Ryan International.
+Highest-performing study method: Coaching.
+Study hours, attendance, assignment completion and previous score can be analyzed as factors associated with final scores; correlation does not prove causation.
+
+7. RECOMMENDATIONS
+- Identify students with low attendance for early academic support.
+- Encourage consistent study routines.
+- Use assignment completion as an early-warning indicator.
+- Compare study methods across student groups before recommending one method.
+- Build a dashboard with filters for class, subject and school.
+
+8. CONCLUSION
+The project demonstrates a complete analytics workflow: data preparation, KPI calculation, aggregation, visualization, relationship analysis and business-style recommendations.
+
+NOTE: All data is synthetic and created for educational purposes.
